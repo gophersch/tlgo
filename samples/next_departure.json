@@ -1,0 +1,336 @@
+{
+	"journeys": {
+		"journey": [
+			{
+				"time": "6'",
+				"date_time": "2018-11-28 21:27:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666762",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131942066",
+						"name": "Lausanne-Flon"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "13'",
+				"date_time": "2018-11-28 21:34:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666715",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131943924",
+						"name": "Echallens"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "21:42",
+				"date_time": "2018-11-28 21:42:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666765",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131942066",
+						"name": "Lausanne-Flon"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "21:57",
+				"date_time": "2018-11-28 21:57:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666780",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131942066",
+						"name": "Lausanne-Flon"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "22:04",
+				"date_time": "2018-11-28 22:04:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666714",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131943924",
+						"name": "Echallens"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "22:27",
+				"date_time": "2018-11-28 22:27:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666762",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131942066",
+						"name": "Lausanne-Flon"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "22:34",
+				"date_time": "2018-11-28 22:34:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666715",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131943924",
+						"name": "Echallens"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "22:57",
+				"date_time": "2018-11-28 22:57:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666780",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131942066",
+						"name": "Lausanne-Flon"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "23:04",
+				"date_time": "2018-11-28 23:04:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666714",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131943924",
+						"name": "Echallens"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "23:57",
+				"date_time": "2018-11-28 23:57:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666780",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131942066",
+						"name": "Lausanne-Flon"
+					}
+				],
+				"message": []
+			},
+			{
+				"time": "00:04",
+				"date_time": "2018-11-29 00:04:00",
+				"handicapped_access": "1",
+				"realTime": "0",
+				"route_id": "2536259792666715",
+				"track": "1",
+				"wayback": "0",
+				"display_service_number": "",
+				"service_id": "",
+				"service_number": "",
+				"line": [
+					{
+						"id": "11822125115506799",
+						"line_short_name": "LEB"
+					}
+				],
+				"stop": [
+					{
+						"name": "Chauderon"
+					}
+				],
+				"destination": [
+					{
+						"id": "1970329131943924",
+						"name": "Echallens"
+					}
+				],
+				"message": []
+			}
+		]
+	}
+}

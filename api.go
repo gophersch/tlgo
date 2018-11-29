@@ -4,11 +4,12 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"net/url"
+	"time"
 )
 
 const (
-	baseHostNewAPI = "http://tl-apps.t-l.ch"
-	baseHost       = "http://syn.t-l.ch"
+	baseHost = "http://syn.t-l.ch"
 )
 
 // Client is a http client wrapper
@@ -67,15 +68,48 @@ func (c *Client) ListStops() ([]Stop, error) {
 }
 
 // ListRoutes list the routes contained in a `Line`
-func (c *Client) ListRoutes(line *Line) ([]Route, error) {
+func (c *Client) ListRoutes(line Line) ([]Route, error) {
 	return c.ListRoutesFromID(line.ID)
 }
 
 // ListRoutesFromID list the routes contained in a `Line`
 // from the line ID.
 func (c *Client) ListRoutesFromID(ID string) ([]Route, error) {
-	url := fmt.Sprintf("apps/RoutesLists?lineid=%s", ID)
+	url := fmt.Sprintf("apps/RoutesList?lineid=%s", ID)
 	wrapping := routeRequest{}
 	err := c.execRequest(url, &wrapping)
 	return wrapping.Routes.Routes, err
+}
+
+// GetRouteDetailsFromID returns the list of a route.
+func (c *Client) GetRouteDetailsFromID(ID string) (RouteDetails, error) {
+	url := fmt.Sprintf("apps/RouteDetail?roid=%s", ID)
+	wrapping := routeDetailsRequest{}
+	err := c.execRequest(url, &wrapping)
+	return wrapping.RouteDetails, err
+}
+
+// GetRouteDetails returns the list of stops of a route
+func (c *Client) GetRouteDetails(route Route) (RouteDetails, error) {
+	return c.GetRouteDetailsFromID(route.ID)
+}
+
+// ListStopDepartures retrieve the nest departures informations for a line
+func (c *Client) ListStopDepartures(route Route, line Line, date time.Time, wayback bool) ([]Journey, error) {
+	return c.ListStopDeparturesFromIDs(route.ID, line.ID, date, wayback)
+}
+
+// ListStopDeparturesFromIDs retrieve the nest departures informations for a line
+func (c *Client) ListStopDeparturesFromIDs(routeID string, lineID string, date time.Time, wayback bool) ([]Journey, error) {
+	v := url.Values{}
+	v.Set("roid", routeID)
+	v.Add("lineid", lineID)
+	v.Add("date", date.Format("2006-01-02 15:04"))
+
+	v.Add("wayback", stringFromBool(wayback))
+	url := fmt.Sprintf("apps/LineStopDeparturesList?%s", v.Encode())
+
+	wrapping := departureRequest{}
+	err := c.execRequest(url, &wrapping)
+	return wrapping.Journeys.Journey, err
 }

@@ -28,5 +28,12 @@ func TestJSON(t *testing.T) {
 	validJSON(lineRequest, "samples/line_request.json", t)
 	assert.Equal(t, len(lineRequest.Lines.Line), 2)
 
+	first := lineRequest.Lines.Line[0]
+
+	assert.Equal(t, first.ID, "11822125115506799")
+	assert.Equal(t, first.Name, "Lausanne-Flon - Bercher")
+	assert.Equal(t, first.ShortName, "LEB")
+	assert.Equal(t, len(first.Message), 1)
+
 	validJSON(&stopRequest{}, "samples/line_request.json", t)
 }
