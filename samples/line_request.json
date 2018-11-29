@@ -1,0 +1,25 @@
+{
+    "lines": {
+        "line": [
+            {
+                "line_id": "11822125115506799",
+                "id": "11822125115506799",
+                "name": "Lausanne-Flon - Bercher",
+                "line_short_name": "LEB",
+                "shortName": "LEB",
+                "message": [
+                    {
+                        "content": ""
+                    }
+                ]
+            },
+            {
+                "line_id": "11821953316814928",
+                "id": "11821953316814928",
+                "name": "Echallens - Bercher",
+                "line_short_name": "Bus-LEB",
+                "shortName": "Bus-LEB"
+            }
+        ]
+    }
+}

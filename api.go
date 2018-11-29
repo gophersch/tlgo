@@ -1,4 +1,4 @@
-package apiclient
+package tlgo
 
 import (
 	"encoding/json"
@@ -34,7 +34,12 @@ func request(endpoint string) (*http.Request, error) {
 	return req, nil
 }
 
-func (c *Client) execRequest(r *http.Request, v interface{}) error {
+func (c *Client) execRequest(enpoint string, v interface{}) error {
+	r, err := request(enpoint)
+	if err != nil {
+		return err
+	}
+
 	resp, err := c.Do(r)
 	if err != nil {
 		return err
@@ -48,43 +53,29 @@ func (c *Client) execRequest(r *http.Request, v interface{}) error {
 // succeeded.
 func (c *Client) ListLines() ([]Line, error) {
 
-	req, err := request("apps/LinesList")
-	wrapping := struct {
-		Lines struct {
-			Line []Line `json:"line"`
-		} `json:"lines"`
-	}{}
-
-	err = c.execRequest(req, &wrapping)
+	wrapping := lineRequest{}
+	err := c.execRequest("apps/LinesList", &wrapping)
 	return wrapping.Lines.Line, err
 }
 
 // ListStops fetch all active stops on the server.
 func (c *Client) ListStops() ([]Stop, error) {
 
-	req, err := request("apps/StopAreasList")
-	wrapping := struct {
-		Stops struct {
-			Stop []Stop `json:"stopArea"`
-		} `json:"stopAreas"`
-	}{}
-	err = c.execRequest(req, &wrapping)
+	wrapping := stopRequest{}
+	err := c.execRequest("apps/StopAreasList", &wrapping)
 	return wrapping.Stops.Stop, err
 }
 
-func (c *Client) ListRoutes(line Line) ([]Route, error) {
+// ListRoutes list the routes contained in a `Line`
+func (c *Client) ListRoutes(line *Line) ([]Route, error) {
 	return c.ListRoutesFromID(line.ID)
 }
 
+// ListRoutesFromID list the routes contained in a `Line`
+// from the line ID.
 func (c *Client) ListRoutesFromID(ID string) ([]Route, error) {
-	url := fmt.Sprintf("apps/StopAreasList?roid=%s", ID)
-	req, err := request(url)
-
-	wrapping := struct {
-		Routes struct {
-			Routes []Route `json:"routes"`
-		} `json:"routes"`
-	}{}
-	err = c.execRequest(req, &wrapping)
+	url := fmt.Sprintf("apps/RoutesLists?lineid=%s", ID)
+	wrapping := routeRequest{}
+	err := c.execRequest(url, &wrapping)
 	return wrapping.Routes.Routes, err
 }

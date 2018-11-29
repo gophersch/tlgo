@@ -1,4 +1,4 @@
-package apiclient
+package tlgo
 
 import (
 	"encoding/json"
@@ -11,12 +11,24 @@ type Message struct {
 	Content string `json:"content,omitempty"`
 }
 
+type lineRequest struct {
+	Lines struct {
+		Line []Line `json:"line"`
+	} `json:"lines"`
+}
+
 // Line represents a line informations
 type Line struct {
-	ID        string  `json:"id,omitempty"`
-	Name      string  `json:"name"`
-	ShortName string  `json:"line_short_name"`
-	Message   Message `json:"message"`
+	ID        string    `json:"id,omitempty"`
+	Name      string    `json:"name"`
+	ShortName string    `json:"line_short_name"`
+	Message   []Message `json:"message"`
+}
+
+type stopRequest struct {
+	Stops struct {
+		Stop []Stop `json:"stopArea"`
+	} `json:"stopAreas"`
 }
 
 // Stop represents stops information
@@ -65,6 +77,13 @@ func (s *Stop) UnmarshalJSON(b []byte) error {
 	return nil
 }
 
+type routeRequest struct {
+	Routes struct {
+		Routes []Route `json:"routes"`
+	} `json:"routes"`
+}
+
+// Route represents a route
 type Route struct {
 	CityDestination         string  `json:"destination_city_name"`
 	CityDestinationStopName string  `json:"destination_stop_name"`
