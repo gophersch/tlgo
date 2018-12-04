@@ -183,6 +183,29 @@ type RouteDetails struct {
 	ID        string             `json:"lineId"`
 	ShortName string             `json:"lineShortName"`
 	Stops     []StopRouteDetails `json:"stop"`
+	Wayback   bool               `json:"wayback"`
+}
+
+func (r *RouteDetails) UnmarshalJSON(b []byte) error {
+
+	empty := struct {
+		ID        string             `json:"lineId"`
+		ShortName string             `json:"lineShortName"`
+		Stops     []StopRouteDetails `json:"stop"`
+		Wayback   string             `json:"wayback"`
+	}{}
+
+	err := json.Unmarshal(b, &empty)
+	if err != nil {
+		return err
+	}
+
+	r.ID = empty.ID
+	r.ShortName = empty.ShortName
+	r.Stops = empty.Stops
+	r.Wayback = boolFromString(empty.Wayback)
+
+	return nil
 }
 
 type routeDetailsRequest struct {
