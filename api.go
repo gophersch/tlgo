@@ -14,12 +14,14 @@ const (
 
 // Client is a http client wrapper
 type Client struct {
-	*http.Client
+	http *http.Client
 }
 
 // NewClient creates a fershly new instance of client
 func NewClient() *Client {
-	return &Client{&http.Client{}}
+	return &Client{
+		http: &http.Client{},
+	}
 }
 
 func request(endpoint string) (*http.Request, error) {
@@ -41,7 +43,7 @@ func (c *Client) execRequest(enpoint string, v interface{}) error {
 		return err
 	}
 
-	resp, err := c.Do(r)
+	resp, err := c.http.Do(r)
 	if err != nil {
 		return err
 	}
