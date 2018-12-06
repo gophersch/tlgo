@@ -27,12 +27,12 @@ func main() {
 		fmt.Printf("Can not get line lists: %s\n", err)
 	}
 
-	_, err = client.ListRoutes(lines[0])
+	_, err = client.ListRoutes(lines[0].ID)
 	if err != nil {
 		fmt.Printf("Can not get routes list: %s\n", err)
 	}
 
-	details, err := client.ListStopDeparturesFromIDs("1970329131941987", "11822125115506799", time.Now(), false)
+	details, err := client.ListStopDepartures("1970329131941987", "11822125115506799", time.Now(), false)
 	if err != nil {
 		fmt.Printf("Can not get details list: %s\n", err)
 	}

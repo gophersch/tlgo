@@ -180,7 +180,7 @@ type StopRouteDetails struct {
 
 // RouteDetails gives information about the route
 type RouteDetails struct {
-	ID        string             `json:"lineId"`
+	LineID    string             `json:"lineId"`
 	ShortName string             `json:"lineShortName"`
 	Stops     []StopRouteDetails `json:"stop"`
 	Wayback   bool               `json:"wayback"`
@@ -189,7 +189,7 @@ type RouteDetails struct {
 func (r *RouteDetails) UnmarshalJSON(b []byte) error {
 
 	empty := struct {
-		ID        string             `json:"lineId"`
+		LineID    string             `json:"lineId"`
 		ShortName string             `json:"lineShortName"`
 		Stops     []StopRouteDetails `json:"stop"`
 		Wayback   string             `json:"wayback"`
@@ -200,7 +200,7 @@ func (r *RouteDetails) UnmarshalJSON(b []byte) error {
 		return err
 	}
 
-	r.ID = empty.ID
+	r.LineID = empty.LineID
 	r.ShortName = empty.ShortName
 	r.Stops = empty.Stops
 	r.Wayback = boolFromString(empty.Wayback)
@@ -218,6 +218,10 @@ type JourneyLine struct {
 	ShortName string `json:"line_short_name"`
 }
 
+type JourneyStop struct {
+	Name string `json:"name"`
+}
+
 // Journey holds response from next departures
 type Journey struct {
 	DisplayTime      string        `json:"time"`
@@ -226,6 +230,7 @@ type Journey struct {
 	Realtime         bool          `json:"realTime"`
 	RouteID          string        `json:"route_id"`
 	Track            bool          `json:"track"`
+	Stops            []JourneyStop `json:"stop"`
 	Wayback          bool          `json:"wayback"`
 	Message          []Message     `json:"message"`
 	Lines            []JourneyLine `json:"line"`
@@ -241,6 +246,7 @@ func (j *Journey) UnmarshalJSON(b []byte) error {
 		RouteID          string        `json:"route_id"`
 		Track            string        `json:"track"`
 		Wayback          string        `json:"wayback"`
+		Stops            []JourneyStop `json:"stop"`
 		Message          []Message     `json:"message"`
 		Lines            []JourneyLine `json:"line"`
 	}{}
@@ -256,6 +262,7 @@ func (j *Journey) UnmarshalJSON(b []byte) error {
 	}
 	j.Time = time
 
+	j.Stops = empty.Stops
 	j.DisplayTime = empty.DisplayTime
 	j.DisabilityAccess = boolFromString(empty.DisabilityAccess)
 	j.Realtime = boolFromString(empty.Realtime)
