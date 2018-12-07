@@ -6,6 +6,7 @@ import (
 	"reflect"
 	"strings"
 	"testing"
+	"time"
 
 	"github.com/stretchr/testify/assert"
 )
@@ -36,4 +37,21 @@ func TestJSON(t *testing.T) {
 	assert.Equal(t, len(first.Message), 1)
 
 	validJSON(&stopRequest{}, "samples/line_request.json", t)
+
+	journey := journeyRequest{}
+	validJSON(&journey, "samples/next_departure.json", t)
+
+	assert.Equal(t, len(journey.Journeys.Journey), 11)
+}
+
+func TestURLMarshalling(t *testing.T) {
+
+	date := time.Date(2018, time.December, 7, 14, 22, 0, 0, time.UTC)
+	expectedPath := "apps/LineStopDeparturesList?date=2018-12-07+14%3A22&lineid=11821953316814862&roid=1970329131942119&wayback=1"
+
+	URL := departurePath("1970329131942119", "11821953316814862", date, true)
+	if URL != expectedPath {
+		t.Errorf("URL is not the expected one: %s != %s", expectedPath, URL)
+	}
+
 }

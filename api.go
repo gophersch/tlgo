@@ -9,7 +9,8 @@ import (
 )
 
 const (
-	baseHost = "http://syn.t-l.ch"
+	baseHost        = "http://syn.t-l.ch"
+	timeQueryLayout = "2006-01-02 15:04"
 )
 
 // Client is a http client wrapper
@@ -87,16 +88,14 @@ func (c *Client) GetRouteDetails(ID string) (RouteDetails, error) {
 }
 
 // ListStopDepartures retrieve the nest departures informations for a line
-func (c *Client) ListStopDepartures(routeID string, lineID string, date time.Time, wayback bool) ([]Journey, error) {
-	v := url.Values{}
-	v.Set("roid", routeID)
-	v.Add("lineid", lineID)
-	v.Add("date", date.Format("2006-01-02 15:04"))
+func (c *Client) ListStopDepartures(stopID string, lineID string, date time.Time, wayback bool) ([]Journey, error) {
 
-	v.Add("wayback", stringFromBool(wayback))
-	url := fmt.Sprintf("apps/LineStopDeparturesList?%s", v.Encode())
-
-	wrapping := departureRequest{}
-	err := c.execRequest(url, &wrapping)
+	URL := departurePath(stopID, lineID, date, wayback)
+	wrapping := journeyRequest{}
+	err := c.execRequest(URL, &wrapping)
 	return wrapping.Journeys.Journey, err
+}
+
+func departurePath(stopID, lineID string, date time.Time, wayback bool) string {
+	return fmt.Sprintf("apps/LineStopDeparturesList?date=%s&lineid=%s&roid=%s&wayback=%s", url.QueryEscape(date.Format(timeQueryLayout)), lineID, stopID, stringFromBool(wayback))
 }

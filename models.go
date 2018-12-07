@@ -2,6 +2,7 @@ package tlgo
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
 	"strconv"
 	"time"
@@ -34,12 +35,12 @@ type stopRequest struct {
 
 // Stop represents stops information
 type Stop struct {
-	ID        string  `json:"id"`
-	Name      string  `json:"name"`
-	ShortName string  `json:"line_short_name"`
-	Lat       float32 `json:"y"`
-	Lng       float32 `json:"x"`
-	Lines     []Line  `json:"line"`
+	ID             string
+	Name           string
+	ShortName      string
+	Lat            float32
+	Lng            float32
+	LinesShortName []string
 }
 
 func (s *Stop) UnmarshalJSON(b []byte) error {
@@ -50,7 +51,9 @@ func (s *Stop) UnmarshalJSON(b []byte) error {
 		ShortName string `json:"line_short_name"`
 		X         string `json:"x"`
 		Y         string `json:"y"`
-		Lines     []Line `json:"line"`
+		Lines     []struct {
+			ShortName string `json:"line_short_name"`
+		} `json:"line"`
 	}{}
 
 	err := json.Unmarshal(b, &empty)
@@ -61,7 +64,11 @@ func (s *Stop) UnmarshalJSON(b []byte) error {
 	s.ID = empty.ID
 	s.Name = empty.Name
 	s.ShortName = empty.ShortName
-	s.Lines = empty.Lines
+
+	s.LinesShortName = make([]string, len(empty.Lines))
+	for i := range empty.Lines {
+		s.LinesShortName[i] = empty.Lines[i].ShortName
+	}
 
 	lat, err := strconv.ParseFloat(empty.Y, 32)
 	if err != nil {
@@ -86,19 +93,19 @@ type routeRequest struct {
 
 // Route represents a route
 type Route struct {
-	CityDestination         string  `json:"destination_city_name"`
-	CityDestinationStopName string  `json:"destination_stop_name"`
-	Direction               string  `json:"direction"`
-	MainRoute               bool    `json:"is_main"`
-	Length                  float32 `json:"length"`
-	Name                    string  `json:"name"`
-	CityOrigin              string  `json:"origin_city_name"`
-	CityOriginStopName      string  `json:"origin_stop_name"`
-	Rank                    int     `json:"rank"`
-	RankOdd                 bool    `json:"rank_is_odd"`
-	ID                      string  `json:"roid"`
-	StopsCount              int     `json:"stops_number"`
-	Wayback                 bool    `json:"wayback"`
+	CityDestination         string
+	CityDestinationStopName string
+	Direction               string
+	MainRoute               bool
+	Length                  float32
+	Name                    string
+	CityOrigin              string
+	CityOriginStopName      string
+	Rank                    int
+	RankOdd                 bool
+	ID                      string
+	StopsCount              int
+	Wayback                 bool
 }
 
 func (r *Route) UnmarshalJSON(b []byte) error {
@@ -159,13 +166,13 @@ func (r *Route) UnmarshalJSON(b []byte) error {
 
 func stringFromBool(b bool) string {
 	if b {
-		return "0"
+		return "1"
 	}
-	return "1"
+	return "0"
 }
 
 func boolFromString(s string) bool {
-	if s == "0" {
+	if s == "1" {
 		return true
 	}
 	return false
@@ -180,10 +187,10 @@ type StopRouteDetails struct {
 
 // RouteDetails gives information about the route
 type RouteDetails struct {
-	LineID    string             `json:"lineId"`
-	ShortName string             `json:"lineShortName"`
-	Stops     []StopRouteDetails `json:"stop"`
-	Wayback   bool               `json:"wayback"`
+	LineID    string
+	ShortName string
+	Stops     []StopRouteDetails
+	Wayback   bool
 }
 
 func (r *RouteDetails) UnmarshalJSON(b []byte) error {
@@ -224,22 +231,23 @@ type JourneyStop struct {
 
 // Journey holds response from next departures
 type Journey struct {
-	DisplayTime      string        `json:"time"`
-	Time             time.Time     `json:"date_time"`
-	DisabilityAccess bool          `json:"handicapped_access"`
-	Realtime         bool          `json:"realTime"`
-	RouteID          string        `json:"route_id"`
-	Track            bool          `json:"track"`
-	Stops            []JourneyStop `json:"stop"`
-	Wayback          bool          `json:"wayback"`
-	Message          []Message     `json:"message"`
-	Lines            []JourneyLine `json:"line"`
+	Time             time.Time
+	NetworkID        string
+	NetworkName      string
+	RouteID          string
+	Track            string
+	WaitingTime      time.Duration
+	DisabilityAccess bool
+	Realtime         bool
+	Stops            []JourneyStop
+	Wayback          bool
+	Message          []Message
+	Lines            []JourneyLine
 }
 
 func (j *Journey) UnmarshalJSON(b []byte) error {
 
 	empty := struct {
-		DisplayTime      string        `json:"time"`
 		Time             string        `json:"date_time"`
 		DisabilityAccess string        `json:"handicapped_access"`
 		Realtime         string        `json:"realTime"`
@@ -249,6 +257,9 @@ func (j *Journey) UnmarshalJSON(b []byte) error {
 		Stops            []JourneyStop `json:"stop"`
 		Message          []Message     `json:"message"`
 		Lines            []JourneyLine `json:"line"`
+		NetworkID        string        `json:"networkId"`
+		NetworkName      string        `json:"networkName"`
+		WaitingTime      string        `json:"waiting_time"`
 	}{}
 
 	err := json.Unmarshal(b, &empty)
@@ -256,26 +267,43 @@ func (j *Journey) UnmarshalJSON(b []byte) error {
 		return err
 	}
 
-	time, err := time.Parse("2006-01-02 15:04:05", empty.Time)
+	timeValue, err := time.Parse("2006-01-02 15:04:05", empty.Time)
 	if err != nil {
 		return err
 	}
-	j.Time = time
+	j.Time = timeValue
 
 	j.Stops = empty.Stops
-	j.DisplayTime = empty.DisplayTime
+
 	j.DisabilityAccess = boolFromString(empty.DisabilityAccess)
 	j.Realtime = boolFromString(empty.Realtime)
 	j.RouteID = empty.RouteID
-	j.Track = boolFromString(empty.Track)
+	j.Track = empty.Track
+	j.NetworkID = empty.NetworkID
+	j.NetworkName = empty.NetworkName
+
 	j.Wayback = boolFromString(empty.Wayback)
 	j.Message = empty.Message
 	j.Lines = empty.Lines
 
+	// Waiting time
+	if len(empty.WaitingTime) != 8 {
+		return errors.New("Invalid waiting time format")
+	}
+
+	hours, hoursErr := strconv.ParseInt(empty.WaitingTime[0:2], 10, 8)
+	minutes, minutesErr := strconv.ParseInt(empty.WaitingTime[3:5], 10, 8)
+	seconds, secondsErr := strconv.ParseInt(empty.WaitingTime[6:8], 10, 8)
+	if hoursErr != nil || minutesErr != nil || secondsErr != nil {
+		return errors.New("Can not parse the waiting time")
+	}
+
+	j.WaitingTime = time.Duration(hours)*time.Hour + time.Duration(minutes)*time.Minute + time.Duration(seconds)*time.Second
+
 	return nil
 }
 
-type departureRequest struct {
+type journeyRequest struct {
 	Journeys struct {
 		Journey []Journey `json:"journey"`
 	} `json:"journeys"`

@@ -1,335 +1,2550 @@
 {
 	"journeys": {
+		"operatorCode": "LONGE_E",
+		"stop_area_city_id": "1688854155231235",
+		"stop_area_city_name": "Renens",
+		"stop_area_id": "1970329131942119",
+		"stop_area_name": "Longemalle",
+		"stop_id": "3377704015495664",
+		"stop_name": "Longemalle",
 		"journey": [
 			{
-				"time": "6'",
-				"date_time": "2018-11-28 21:27:00",
+				"date_time": "2018-12-07 15:08:15",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666762",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 15:06:00",
+				"realTime": "1",
+				"route_id": "2619732482066181",
+				"track": "Longemalle",
+				"waiting_time": "00:11:07",
+				"destination": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "1",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5964543666850526 46.5256275968239734)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495665",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_O",
+						"operator_code": "16607027920896001|LONGE_O",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "0.54079312853067396",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926654.54489222053",
+						"y": "2178360.0975073613",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									},
+									{
+										"line_id": "11821953316814905",
+										"network_id": "6192453782601729",
+										"short_name": "N5"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131942066",
-						"name": "Lausanne-Flon"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "13'",
-				"date_time": "2018-11-28 21:34:00",
+				"date_time": "2018-12-07 15:09:35",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666715",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 15:08:00",
+				"realTime": "1",
+				"route_id": "2535851770776074",
+				"track": "Longemalle",
+				"waiting_time": "00:12:27",
+				"destination": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "0",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5967035176397912 46.5255304886735885)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495664",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_E",
+						"operator_code": "16607027920896001|LONGE_E",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "22.478485552450401",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926674.21596395224",
+						"y": "2178350.3551200312",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131943924",
-						"name": "Echallens"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "21:42",
-				"date_time": "2018-11-28 21:42:00",
+				"date_time": "2018-12-07 15:24:16",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666765",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 15:24:00",
+				"realTime": "1",
+				"route_id": "2619732482066181",
+				"track": "Longemalle",
+				"waiting_time": "00:27:08",
+				"destination": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "1",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5964543666850526 46.5256275968239734)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495665",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_O",
+						"operator_code": "16607027920896001|LONGE_O",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "0.54079312853067396",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926654.54489222053",
+						"y": "2178360.0975073613",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									},
+									{
+										"line_id": "11821953316814905",
+										"network_id": "6192453782601729",
+										"short_name": "N5"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131942066",
-						"name": "Lausanne-Flon"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "21:57",
-				"date_time": "2018-11-28 21:57:00",
+				"date_time": "2018-12-07 15:28:26",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666780",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 15:28:00",
+				"realTime": "1",
+				"route_id": "2535851770776074",
+				"track": "Longemalle",
+				"waiting_time": "00:31:18",
+				"destination": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "0",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5967035176397912 46.5255304886735885)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495664",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_E",
+						"operator_code": "16607027920896001|LONGE_E",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "22.478485552450401",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926674.21596395224",
+						"y": "2178350.3551200312",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131942066",
-						"name": "Lausanne-Flon"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "22:04",
-				"date_time": "2018-11-28 22:04:00",
+				"date_time": "2018-12-07 15:42:16",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666714",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 15:42:00",
+				"realTime": "1",
+				"route_id": "2619732482066181",
+				"track": "Longemalle",
+				"waiting_time": "00:45:08",
+				"destination": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "1",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5964543666850526 46.5256275968239734)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495665",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_O",
+						"operator_code": "16607027920896001|LONGE_O",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "0.54079312853067396",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926654.54489222053",
+						"y": "2178360.0975073613",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									},
+									{
+										"line_id": "11821953316814905",
+										"network_id": "6192453782601729",
+										"short_name": "N5"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131943924",
-						"name": "Echallens"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "22:27",
-				"date_time": "2018-11-28 22:27:00",
+				"date_time": "2018-12-07 15:49:07",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666762",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 15:49:00",
+				"realTime": "1",
+				"route_id": "2535851770776074",
+				"track": "Longemalle",
+				"waiting_time": "00:51:59",
+				"destination": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "0",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5967035176397912 46.5255304886735885)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495664",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_E",
+						"operator_code": "16607027920896001|LONGE_E",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "22.478485552450401",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926674.21596395224",
+						"y": "2178350.3551200312",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131942066",
-						"name": "Lausanne-Flon"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "22:34",
-				"date_time": "2018-11-28 22:34:00",
+				"date_time": "2018-12-07 16:00:16",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666715",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 16:00:00",
+				"realTime": "1",
+				"route_id": "2619732482066181",
+				"track": "Longemalle",
+				"waiting_time": "01:03:08",
+				"destination": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "1",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5964543666850526 46.5256275968239734)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495665",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_O",
+						"operator_code": "16607027920896001|LONGE_O",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "0.54079312853067396",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926654.54489222053",
+						"y": "2178360.0975073613",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									},
+									{
+										"line_id": "11821953316814905",
+										"network_id": "6192453782601729",
+										"short_name": "N5"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131943924",
-						"name": "Echallens"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "22:57",
-				"date_time": "2018-11-28 22:57:00",
+				"date_time": "2018-12-07 16:09:07",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666780",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 16:09:00",
+				"realTime": "1",
+				"route_id": "2535851770776074",
+				"track": "Longemalle",
+				"waiting_time": "01:11:59",
+				"destination": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "0",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5967035176397912 46.5255304886735885)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495664",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_E",
+						"operator_code": "16607027920896001|LONGE_E",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "22.478485552450401",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926674.21596395224",
+						"y": "2178350.3551200312",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131942066",
-						"name": "Lausanne-Flon"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "23:04",
-				"date_time": "2018-11-28 23:04:00",
+				"date_time": "2018-12-07 16:15:16",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666714",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 16:15:00",
+				"realTime": "1",
+				"route_id": "2619732482066181",
+				"track": "Longemalle",
+				"waiting_time": "01:18:08",
+				"destination": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "1",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5964543666850526 46.5256275968239734)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495665",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_O",
+						"operator_code": "16607027920896001|LONGE_O",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "0.54079312853067396",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926654.54489222053",
+						"y": "2178360.0975073613",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									},
+									{
+										"line_id": "11821953316814905",
+										"network_id": "6192453782601729",
+										"short_name": "N5"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131943924",
-						"name": "Echallens"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "23:57",
-				"date_time": "2018-11-28 23:57:00",
+				"date_time": "2018-12-07 16:27:07",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666780",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 16:27:00",
+				"realTime": "1",
+				"route_id": "2535851770776074",
+				"track": "Longemalle",
+				"waiting_time": "01:29:59",
+				"destination": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "0",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5967035176397912 46.5255304886735885)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495664",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_E",
+						"operator_code": "16607027920896001|LONGE_E",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "22.478485552450401",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926674.21596395224",
+						"y": "2178350.3551200312",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									}
+								]
+							}
+						]
 					}
 				],
-				"destination": [
+				"stopArea": [
 					{
-						"id": "1970329131942066",
-						"name": "Lausanne-Flon"
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
 					}
-				],
-				"message": []
+				]
 			},
 			{
-				"time": "00:04",
-				"date_time": "2018-11-29 00:04:00",
+				"date_time": "2018-12-07 16:33:16",
 				"handicapped_access": "1",
-				"realTime": "0",
-				"route_id": "2536259792666715",
-				"track": "1",
-				"wayback": "0",
-				"display_service_number": "",
-				"service_id": "",
-				"service_number": "",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 16:33:00",
+				"realTime": "1",
+				"route_id": "2619732482066181",
+				"track": "Longemalle",
+				"waiting_time": "01:36:08",
+				"destination": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
 				"line": [
 					{
-						"id": "11822125115506799",
-						"line_short_name": "LEB"
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "1",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
 					}
 				],
 				"stop": [
 					{
-						"name": "Chauderon"
+						"geometry": "POINT (6.5964543666850526 46.5256275968239734)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495665",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_O",
+						"operator_code": "16607027920896001|LONGE_O",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "0.54079312853067396",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926654.54489222053",
+						"y": "2178360.0975073613",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									},
+									{
+										"line_id": "11821953316814905",
+										"network_id": "6192453782601729",
+										"short_name": "N5"
+									}
+								]
+							}
+						]
 					}
 				],
+				"stopArea": [
+					{
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
+					}
+				]
+			},
+			{
+				"date_time": "2018-12-07 16:46:49",
+				"handicapped_access": "1",
+				"networkId": "6192453782601729",
+				"networkName": "tl",
+				"planned_time": "2018-12-07 16:46:00",
+				"realTime": "1",
+				"route_id": "2535851770776074",
+				"track": "Longemalle",
+				"waiting_time": "01:49:41",
 				"destination": [
 					{
-						"id": "1970329131943924",
-						"name": "Echallens"
+						"cityId": "1688854155231257",
+						"cityName": "Prilly",
+						"city_id": "1688854155231257",
+						"city_name": "Prilly",
+						"code_by_source": "16607027920896001|Mont-Goulin",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.6108667087989046 46.5385800916351755)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942143",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Mont-Goulin",
+						"short_display_name": "",
+						"stop_id": "1970329131942143",
+						"stop_name": "Mont-Goulin",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "927680.368604",
+						"y": "2179857.628937",
+						"type": "Point",
+						"coordinates": [
+							927680.368604,
+							2179857.628937
+						]
 					}
 				],
-				"message": []
+				"line": [
+					{
+						"bike_compliance_id": "0",
+						"calendar_template_id": "0",
+						"creatorId": "16607027920896001|33,16607195424620545|TL033",
+						"creator_id": "16607027920896001|33,16607195424620545|TL033",
+						"display_duration_before_first_departure": "9999",
+						"doc_url": "",
+						"handicapped_compliance_id": "0",
+						"id": "11821953316814862",
+						"image": "",
+						"lineImage": "",
+						"lineName": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"lineShortName": "33",
+						"lineStyle": "vertfonce",
+						"line_doc_url": "",
+						"line_id": "11821953316814862",
+						"line_image": "",
+						"line_long_name": "33",
+						"line_map_url": "",
+						"line_network_contact_id": "5915265183252481",
+						"line_network_country_code": "",
+						"line_network_creator_id": "16607195424620545|519",
+						"line_network_days_calendars_parent_id": "0",
+						"line_network_fare_contact_id": "0",
+						"line_network_id": "6192453782601729",
+						"line_network_image": "",
+						"line_network_lang": "fr",
+						"line_network_name": "tl",
+						"line_network_periods_calendars_parent_id": "0",
+						"line_network_timezone": "Europe\/Zurich",
+						"line_short_name": "33",
+						"line_style": "vertfonce",
+						"line_timetable_id": "0",
+						"longName": "33",
+						"long_name": "33",
+						"map_url": "",
+						"max_display_delay": "9999",
+						"name": "St.-Sulpice Venoge nord - Prilly Mont-Goulin",
+						"network_id": "6192453782601729",
+						"optional_reservation_places": "",
+						"pedestrian_compliance_id": "0",
+						"reservation_contact_id": "0",
+						"shortName": "33",
+						"short_name": "33",
+						"style": "vertfonce",
+						"timetable_id": "0",
+						"transportMode": "Bus",
+						"wayback": "0",
+						"xmlcolor": ""
+					}
+				],
+				"origin": [
+					{
+						"cityId": "1688854155231262",
+						"cityName": "St-Sulpice",
+						"city_id": "1688854155231262",
+						"city_name": "St-Sulpice",
+						"code_by_source": "16607027920896001|Venoge nord",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5457117216376401 46.5139538915783035)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131943646",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Venoge nord",
+						"short_display_name": "",
+						"stop_id": "1970329131943646",
+						"stop_name": "Venoge nord",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "922836.734759",
+						"y": "2176854.828927",
+						"type": "Point",
+						"coordinates": [
+							922836.734759,
+							2176854.828927
+						]
+					}
+				],
+				"rollingStock": [
+					{
+						"CO2_emissions": "0",
+						"article": "",
+						"data_source_links": "",
+						"energy_consumption": "0",
+						"id": "13792278153789449",
+						"indicator_label": "",
+						"is_trident_reference": "1",
+						"name": "Bus",
+						"trident_key": "Bus"
+					}
+				],
+				"stop": [
+					{
+						"geometry": "POINT (6.5967035176397912 46.5255304886735885)",
+						"handicapped_compliance_id": "0",
+						"id": "3377704015495664",
+						"name": "Longemalle",
+						"operatorCode": "LONGE_E",
+						"operator_code": "16607027920896001|LONGE_E",
+						"place_id": "1970329131942119",
+						"projected_metric_offset": "22.478485552450401",
+						"projected_road_chunk_id": "3940653969196828",
+						"x": "926674.21596395224",
+						"y": "2178350.3551200312",
+						"lines": [
+							{
+								"line": [
+									{
+										"line_id": "11821953316814861",
+										"network_id": "6192453782601729",
+										"short_name": "32"
+									},
+									{
+										"line_id": "11821953316814862",
+										"network_id": "6192453782601729",
+										"short_name": "33"
+									}
+								]
+							}
+						]
+					}
+				],
+				"stopArea": [
+					{
+						"cityId": "1688854155231235",
+						"cityName": "Renens",
+						"city_id": "1688854155231235",
+						"city_name": "Renens",
+						"code_by_source": "16607027920896001|Longemalle",
+						"connection_type": "1",
+						"default_transfer_delay": "2",
+						"directionAlias": "",
+						"geometry": "POINT (6.5965789524135596 46.5255790433081486)",
+						"handicapped_compliance_id": "0",
+						"id": "1970329131942119",
+						"is_city_main_connection": "0",
+						"is_relay_park": "0",
+						"long_display_name": "",
+						"name": "Longemalle",
+						"short_display_name": "",
+						"stop_id": "1970329131942119",
+						"stop_name": "Longemalle",
+						"stop_name_13": "",
+						"stop_name_26": "",
+						"stop_name_for_timetables": "",
+						"timetable_name": "",
+						"transfer_delays": "",
+						"x": "926664.381202",
+						"y": "2178355.226410",
+						"type": "Point",
+						"coordinates": [
+							926664.381202,
+							2178355.226410
+						]
+					}
+				]
 			}
 		]
 	}

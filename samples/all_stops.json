@@ -1,0 +1,9046 @@
+{
+	"stopAreas": {
+		"stopArea": [
+			{
+				"id": "1970329131943919",
+				"stop_id": "1970329131943919",
+				"name": "Assens",
+				"stop_name": "Assens",
+				"x": "6.621158",
+				"y": "46.614028",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941911",
+				"stop_id": "1970329131941911",
+				"name": "Belmont, Centre",
+				"stop_name": "Belmont, Centre",
+				"x": "6.678600",
+				"y": "46.519492",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131943762",
+				"stop_id": "1970329131943762",
+				"name": "Grands-Champs",
+				"stop_name": "Grands-Champs",
+				"x": "6.676909",
+				"y": "46.522040",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					},
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131943921",
+				"stop_id": "1970329131943921",
+				"name": "Bercher",
+				"stop_name": "Bercher",
+				"x": "6.703414",
+				"y": "46.692765",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941941",
+				"stop_id": "1970329131941941",
+				"name": "Bottens, Croisée",
+				"stop_name": "Bottens, Croisée",
+				"x": "6.660035",
+				"y": "46.616825",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131941973",
+				"stop_id": "1970329131941973",
+				"name": "Chalet-Coucou",
+				"stop_name": "Chalet-Coucou",
+				"x": "6.650057",
+				"y": "46.603653",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131942260",
+				"stop_id": "1970329131942260",
+				"name": "Rustériaz",
+				"stop_name": "Rustériaz",
+				"x": "6.666475",
+				"y": "46.606510",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131941946",
+				"stop_id": "1970329131941946",
+				"name": "Bretigny/Morrens",
+				"stop_name": "Bretigny/Morrens",
+				"x": "6.646817",
+				"y": "46.598049",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131941950",
+				"stop_id": "1970329131941950",
+				"name": "Bruyère",
+				"stop_name": "Bruyère",
+				"x": "6.663014",
+				"y": "46.524015",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					}
+				]
+			},
+			{
+				"id": "1970329131943968",
+				"stop_id": "1970329131943968",
+				"name": "Bussigny, Poste",
+				"stop_name": "Bussigny, Poste",
+				"x": "6.554262",
+				"y": "46.548112",
+				"line": [
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131941997",
+				"stop_id": "1970329131941997",
+				"name": "Cocagne",
+				"stop_name": "Cocagne",
+				"x": "6.561874",
+				"y": "46.554693",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					}
+				]
+			},
+			{
+				"id": "1970329131942012",
+				"stop_id": "1970329131942012",
+				"name": "Croix-de-Plan",
+				"stop_name": "Croix-de-Plan",
+				"x": "6.563718",
+				"y": "46.547938",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					}
+				]
+			},
+			{
+				"id": "1970329131942244",
+				"stop_id": "1970329131942244",
+				"name": "Rente",
+				"stop_name": "Rente",
+				"x": "6.562449",
+				"y": "46.557041",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					}
+				]
+			},
+			{
+				"id": "1970329131941956",
+				"stop_id": "1970329131941956",
+				"name": "Carrouge, Centre",
+				"stop_name": "Carrouge, Centre",
+				"x": "6.776283",
+				"y": "46.606479",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131943754",
+				"stop_id": "1970329131943754",
+				"name": "Croix d'Or",
+				"stop_name": "Croix d'Or",
+				"x": "6.764516",
+				"y": "46.598646",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942046",
+				"stop_id": "1970329131942046",
+				"name": "Ecorcheboeuf",
+				"stop_name": "Ecorcheboeuf",
+				"x": "6.761050",
+				"y": "46.599183",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131943636",
+				"stop_id": "1970329131943636",
+				"name": "Berges",
+				"stop_name": "Berges",
+				"x": "6.575310",
+				"y": "46.527497",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131941967",
+				"stop_id": "1970329131941967",
+				"name": "Cerisaie",
+				"stop_name": "Cerisaie",
+				"x": "6.566486",
+				"y": "46.527982",
+				"line": [
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					},
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131941972",
+				"stop_id": "1970329131941972",
+				"name": "Chavannes-Plaine",
+				"stop_name": "Chavannes-Plaine",
+				"x": "6.572354",
+				"y": "46.528577",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131942000",
+				"stop_id": "1970329131942000",
+				"name": "Concorde",
+				"stop_name": "Concorde",
+				"x": "6.574353",
+				"y": "46.532321",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1970329131942018",
+				"stop_id": "1970329131942018",
+				"name": "Crochy",
+				"stop_name": "Crochy",
+				"x": "6.570056",
+				"y": "46.532989",
+				"line": [
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					},
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942086",
+				"stop_id": "1970329131942086",
+				"name": "Glycines",
+				"stop_name": "Glycines",
+				"x": "6.575869",
+				"y": "46.536138",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131943642",
+				"stop_id": "1970329131943642",
+				"name": "Mouline",
+				"stop_name": "Mouline",
+				"x": "6.579562",
+				"y": "46.526117",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131942204",
+				"stop_id": "1970329131942204",
+				"name": "Planta",
+				"stop_name": "Planta",
+				"x": "6.573067",
+				"y": "46.534092",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1970329131942216",
+				"stop_id": "1970329131942216",
+				"name": "Préfaully",
+				"stop_name": "Préfaully",
+				"x": "6.579156",
+				"y": "46.533599",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1970329131942031",
+				"stop_id": "1970329131942031",
+				"name": "UNIL-Dorigny",
+				"stop_name": "UNIL-Dorigny",
+				"x": "6.585836",
+				"y": "46.522872",
+				"line": []
+			},
+			{
+				"id": "1970329131942148",
+				"stop_id": "1970329131942148",
+				"name": "UNIL-Mouline",
+				"stop_name": "UNIL-Mouline",
+				"x": "6.579287",
+				"y": "46.524943",
+				"line": [
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131943907",
+				"stop_id": "1970329131943907",
+				"name": "Cheseaux",
+				"stop_name": "Cheseaux",
+				"x": "6.603057",
+				"y": "46.584581",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131943973",
+				"stop_id": "1970329131943973",
+				"name": "Cheseaux, Gare",
+				"stop_name": "Cheseaux, Gare",
+				"x": "6.605131",
+				"y": "46.584193",
+				"line": []
+			},
+			{
+				"id": "1970329131941898",
+				"stop_id": "1970329131941898",
+				"name": "Arc-en-Ciel",
+				"stop_name": "Arc-en-Ciel",
+				"x": "6.568096",
+				"y": "46.545291",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					}
+				]
+			},
+			{
+				"id": "1970329131941947",
+				"stop_id": "1970329131941947",
+				"name": "Bré",
+				"stop_name": "Bré",
+				"x": "6.578924",
+				"y": "46.550658",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "81",
+						"lineShortName": "81"
+					}
+				]
+			},
+			{
+				"id": "1970329131942151",
+				"stop_id": "1970329131942151",
+				"name": "Closalet",
+				"stop_name": "Closalet",
+				"x": "6.569521",
+				"y": "46.553546",
+				"line": [
+					{
+						"line_short_name": "36",
+						"lineShortName": "36"
+					}
+				]
+			},
+			{
+				"id": "1970329131943969",
+				"stop_id": "1970329131943969",
+				"name": "Crissier B.Braun",
+				"stop_name": "Crissier B.Braun",
+				"x": "6.564426",
+				"y": "46.559751",
+				"line": []
+			},
+			{
+				"id": "1970329131942292",
+				"stop_id": "1970329131942292",
+				"name": "Crissier Timonet",
+				"stop_name": "Crissier Timonet",
+				"x": "6.574113",
+				"y": "46.555484",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					},
+					{
+						"line_short_name": "N5",
+						"lineShortName": "N5"
+					}
+				]
+			},
+			{
+				"id": "1970329131942017",
+				"stop_id": "1970329131942017",
+				"name": "Crissier, Centre",
+				"stop_name": "Crissier, Centre",
+				"x": "6.577882",
+				"y": "46.552189",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					},
+					{
+						"line_short_name": "81",
+						"lineShortName": "81"
+					}
+				]
+			},
+			{
+				"id": "1970329131943768",
+				"stop_id": "1970329131943768",
+				"name": "Crissier, Chisaz",
+				"stop_name": "Crissier, Chisaz",
+				"x": "6.576881",
+				"y": "46.550368",
+				"line": [
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					},
+					{
+						"line_short_name": "81",
+						"lineShortName": "81"
+					}
+				]
+			},
+			{
+				"id": "1970329131942011",
+				"stop_id": "1970329131942011",
+				"name": "Croix-Péage",
+				"stop_name": "Croix-Péage",
+				"x": "6.565475",
+				"y": "46.561747",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "81",
+						"lineShortName": "81"
+					}
+				]
+			},
+			{
+				"id": "1970329131942104",
+				"stop_id": "1970329131942104",
+				"name": "Industrie",
+				"stop_name": "Industrie",
+				"x": "6.580907",
+				"y": "46.541106",
+				"line": [
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					}
+				]
+			},
+			{
+				"id": "1970329131942108",
+				"stop_id": "1970329131942108",
+				"name": "Jura",
+				"stop_name": "Jura",
+				"x": "6.573372",
+				"y": "46.541917",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "36",
+						"lineShortName": "36"
+					},
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					},
+					{
+						"line_short_name": "N4",
+						"lineShortName": "N4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942127",
+				"stop_id": "1970329131942127",
+				"name": "Marcolet",
+				"stop_name": "Marcolet",
+				"x": "6.574714",
+				"y": "46.546830",
+				"line": [
+					{
+						"line_short_name": "36",
+						"lineShortName": "36"
+					},
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					}
+				]
+			},
+			{
+				"id": "1970329131942154",
+				"stop_id": "1970329131942154",
+				"name": "Mongevon",
+				"stop_name": "Mongevon",
+				"x": "6.571736",
+				"y": "46.549614",
+				"line": [
+					{
+						"line_short_name": "36",
+						"lineShortName": "36"
+					}
+				]
+			},
+			{
+				"id": "1970329131942174",
+				"stop_id": "1970329131942174",
+				"name": "Noutes",
+				"stop_name": "Noutes",
+				"x": "6.579562",
+				"y": "46.543300",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "81",
+						"lineShortName": "81"
+					}
+				]
+			},
+			{
+				"id": "1970329131942270",
+				"stop_id": "1970329131942270",
+				"name": "Scierie",
+				"stop_name": "Scierie",
+				"x": "6.579294",
+				"y": "46.547040",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1970329131941889",
+				"stop_id": "1970329131941889",
+				"name": "Zinguerie",
+				"stop_name": "Zinguerie",
+				"x": "6.570571",
+				"y": "46.543787",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "36",
+						"lineShortName": "36"
+					},
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					}
+				]
+			},
+			{
+				"id": "1970329131942150",
+				"stop_id": "1970329131942150",
+				"name": "Cugy VD, Moulin",
+				"stop_name": "Cugy VD, Moulin",
+				"x": "6.642496",
+				"y": "46.588829",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131942023",
+				"stop_id": "1970329131942023",
+				"name": "Cugy VD, Poste",
+				"stop_name": "Cugy VD, Poste",
+				"x": "6.638827",
+				"y": "46.583743",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131942024",
+				"stop_id": "1970329131942024",
+				"name": "Cugy VD, Village",
+				"stop_name": "Cugy VD, Village",
+				"x": "6.640942",
+				"y": "46.586254",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131941959",
+				"stop_id": "1970329131941959",
+				"name": "Cugy, Cavenette",
+				"stop_name": "Cugy, Cavenette",
+				"x": "6.635722",
+				"y": "46.580163",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131943949",
+				"stop_id": "1970329131943949",
+				"name": "Cully, Gare",
+				"stop_name": "Cully, Gare",
+				"x": "6.726961",
+				"y": "46.488828",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131943961",
+				"stop_id": "1970329131943961",
+				"name": "Dépôt Echallens",
+				"stop_name": "Dépôt Echallens",
+				"x": "6.632210",
+				"y": "46.638869",
+				"line": []
+			},
+			{
+				"id": "1970329131943924",
+				"stop_id": "1970329131943924",
+				"name": "Echallens",
+				"stop_name": "Echallens",
+				"x": "6.634112",
+				"y": "46.639642",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131943927",
+				"stop_id": "1970329131943927",
+				"name": "Grésaley",
+				"stop_name": "Grésaley",
+				"x": "6.642744",
+				"y": "46.643711",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131943933",
+				"stop_id": "1970329131943933",
+				"name": "Sur Roche",
+				"stop_name": "Sur Roche",
+				"x": "6.638330",
+				"y": "46.643177",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941907",
+				"stop_id": "1970329131941907",
+				"name": "Bassenges",
+				"stop_name": "Bassenges",
+				"x": "6.564870",
+				"y": "46.525078",
+				"line": [
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131941926",
+				"stop_id": "1970329131941926",
+				"name": "Blévallaire",
+				"stop_name": "Blévallaire",
+				"x": "6.571870",
+				"y": "46.520553",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					},
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131943637",
+				"stop_id": "1970329131943637",
+				"name": "Champs-Courbes",
+				"stop_name": "Champs-Courbes",
+				"x": "6.550257",
+				"y": "46.516482",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942022",
+				"stop_id": "1970329131942022",
+				"name": "Croset",
+				"stop_name": "Croset",
+				"x": "6.566265",
+				"y": "46.534724",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942542",
+				"stop_id": "1970329131942542",
+				"name": "EPFL",
+				"stop_name": "EPFL",
+				"x": "6.566123",
+				"y": "46.522137",
+				"line": [
+					{
+						"line_short_name": "88",
+						"lineShortName": "88"
+					},
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					},
+					{
+						"line_short_name": "N7",
+						"lineShortName": "N7"
+					},
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131943970",
+				"stop_id": "1970329131943970",
+				"name": "Ecublens Galexis",
+				"stop_name": "Ecublens Galexis",
+				"x": "6.569757",
+				"y": "46.534836",
+				"line": [
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131943971",
+				"stop_id": "1970329131943971",
+				"name": "Ecublens Piccard",
+				"stop_name": "Ecublens Piccard",
+				"x": "6.568388",
+				"y": "46.520243",
+				"line": [
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942049",
+				"stop_id": "1970329131942049",
+				"name": "En Enjalin",
+				"stop_name": "En Enjalin",
+				"x": "6.557023",
+				"y": "46.524302",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942056",
+				"stop_id": "1970329131942056",
+				"name": "Epenex",
+				"stop_name": "Epenex",
+				"x": "6.574437",
+				"y": "46.538060",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					},
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942838",
+				"stop_id": "1970329131942838",
+				"name": "Montaney",
+				"stop_name": "Montaney",
+				"x": "6.552252",
+				"y": "46.518395",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942158",
+				"stop_id": "1970329131942158",
+				"name": "Motty",
+				"stop_name": "Motty",
+				"x": "6.561676",
+				"y": "46.525994",
+				"line": [
+					{
+						"line_short_name": "N8",
+						"lineShortName": "N8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942185",
+				"stop_id": "1970329131942185",
+				"name": "Parc",
+				"stop_name": "Parc",
+				"x": "6.568255",
+				"y": "46.536637",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942196",
+				"stop_id": "1970329131942196",
+				"name": "Perrettes",
+				"stop_name": "Perrettes",
+				"x": "6.558425",
+				"y": "46.526261",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942226",
+				"stop_id": "1970329131942226",
+				"name": "Place de Sport",
+				"stop_name": "Place de Sport",
+				"x": "6.563877",
+				"y": "46.535268",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942210",
+				"stop_id": "1970329131942210",
+				"name": "Pontet",
+				"stop_name": "Pontet",
+				"x": "6.566071",
+				"y": "46.529779",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942243",
+				"stop_id": "1970329131942243",
+				"name": "Renges",
+				"stop_name": "Renges",
+				"x": "6.554868",
+				"y": "46.522594",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942284",
+				"stop_id": "1970329131942284",
+				"name": "Stand",
+				"stop_name": "Stand",
+				"x": "6.562485",
+				"y": "46.532711",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942286",
+				"stop_id": "1970329131942286",
+				"name": "Suchet-Forêt",
+				"stop_name": "Suchet-Forêt",
+				"x": "6.570621",
+				"y": "46.539908",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942277",
+				"stop_id": "1970329131942277",
+				"name": "UNIL-Sorge",
+				"stop_name": "UNIL-Sorge",
+				"x": "6.573220",
+				"y": "46.522049",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					},
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942311",
+				"stop_id": "1970329131942311",
+				"name": "Veilloud",
+				"stop_name": "Veilloud",
+				"x": "6.564515",
+				"y": "46.531279",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942324",
+				"stop_id": "1970329131942324",
+				"name": "Villars",
+				"stop_name": "Villars",
+				"x": "6.560975",
+				"y": "46.529357",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131941905",
+				"stop_id": "1970329131941905",
+				"name": "Ballègue",
+				"stop_name": "Ballègue",
+				"x": "6.669874",
+				"y": "46.554810",
+				"line": [
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					}
+				]
+			},
+			{
+				"id": "1970329131941923",
+				"stop_id": "1970329131941923",
+				"name": "Biolleyre",
+				"stop_name": "Biolleyre",
+				"x": "6.668434",
+				"y": "46.552470",
+				"line": [
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					}
+				]
+			},
+			{
+				"id": "1970329131941930",
+				"stop_id": "1970329131941930",
+				"name": "Bois Murat",
+				"stop_name": "Bois Murat",
+				"x": "6.654366",
+				"y": "46.545123",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					}
+				]
+			},
+			{
+				"id": "1970329131942019",
+				"stop_id": "1970329131942019",
+				"name": "Croisettes",
+				"stop_name": "Croisettes",
+				"x": "6.661629",
+				"y": "46.543173",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					},
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942025",
+				"stop_id": "1970329131942025",
+				"name": "Croix Blanche",
+				"stop_name": "Croix Blanche",
+				"x": "6.670928",
+				"y": "46.547670",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					}
+				]
+			},
+			{
+				"id": "1970329131942053",
+				"stop_id": "1970329131942053",
+				"name": "En Praz Bin",
+				"stop_name": "En Praz Bin",
+				"x": "6.671582",
+				"y": "46.550697",
+				"line": [
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					}
+				]
+			},
+			{
+				"id": "1970329131942052",
+				"stop_id": "1970329131942052",
+				"name": "Epalinges",
+				"stop_name": "Epalinges",
+				"x": "6.674715",
+				"y": "46.548595",
+				"line": []
+			},
+			{
+				"id": "1970329131942051",
+				"stop_id": "1970329131942051",
+				"name": "Epalinges-Centre",
+				"stop_name": "Epalinges-Centre",
+				"x": "6.673056",
+				"y": "46.548377",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					}
+				]
+			},
+			{
+				"id": "1970329131942083",
+				"stop_id": "1970329131942083",
+				"name": "Grand Chemin",
+				"stop_name": "Grand Chemin",
+				"x": "6.684092",
+				"y": "46.554519",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					}
+				]
+			},
+			{
+				"id": "1970329131943757",
+				"stop_id": "1970329131943757",
+				"name": "Lion d'Or",
+				"stop_name": "Lion d'Or",
+				"x": "6.681550",
+				"y": "46.552145",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942203",
+				"stop_id": "1970329131942203",
+				"name": "Planches",
+				"stop_name": "Planches",
+				"x": "6.666780",
+				"y": "46.544552",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					},
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942208",
+				"stop_id": "1970329131942208",
+				"name": "Polny",
+				"stop_name": "Polny",
+				"x": "6.665543",
+				"y": "46.553998",
+				"line": [
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					}
+				]
+			},
+			{
+				"id": "1970329131943760",
+				"stop_id": "1970329131943760",
+				"name": "Pré-d'Yverdon",
+				"stop_name": "Pré-d'Yverdon",
+				"x": "6.672375",
+				"y": "46.543973",
+				"line": [
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942298",
+				"stop_id": "1970329131942298",
+				"name": "Tuileries",
+				"stop_name": "Tuileries",
+				"x": "6.658405",
+				"y": "46.544409",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "46",
+						"lineShortName": "46"
+					}
+				]
+			},
+			{
+				"id": "1970329131943831",
+				"stop_id": "1970329131943831",
+				"name": "Essertes, Pralet",
+				"stop_name": "Essertes, Pralet",
+				"x": "6.781610",
+				"y": "46.558679",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131943925",
+				"stop_id": "1970329131943925",
+				"name": "Etagnières",
+				"stop_name": "Etagnières",
+				"x": "6.613093",
+				"y": "46.600082",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131943929",
+				"stop_id": "1970329131943929",
+				"name": "Les Ripes",
+				"stop_name": "Les Ripes",
+				"x": "6.607504",
+				"y": "46.591479",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131943926",
+				"stop_id": "1970329131943926",
+				"name": "Fey",
+				"stop_name": "Fey",
+				"x": "6.684026",
+				"y": "46.674792",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941922",
+				"stop_id": "1970329131941922",
+				"name": "Bourg-Pilettes",
+				"stop_name": "Bourg-Pilettes",
+				"x": "6.755216",
+				"y": "46.552334",
+				"line": []
+			},
+			{
+				"id": "1970329131941983",
+				"stop_id": "1970329131941983",
+				"name": "Chemin Rochettaz",
+				"stop_name": "Chemin Rochettaz",
+				"x": "6.761310",
+				"y": "46.544737",
+				"line": []
+			},
+			{
+				"id": "1970329131943832",
+				"stop_id": "1970329131943832",
+				"name": "Forel C. de Cerf",
+				"stop_name": "Forel C. de Cerf",
+				"x": "6.770547",
+				"y": "46.543132",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131941957",
+				"stop_id": "1970329131941957",
+				"name": "Forel, Casard",
+				"stop_name": "Forel, Casard",
+				"x": "6.777334",
+				"y": "46.552685",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942091",
+				"stop_id": "1970329131942091",
+				"name": "Grenet",
+				"stop_name": "Grenet",
+				"x": "6.757910",
+				"y": "46.546529",
+				"line": []
+			},
+			{
+				"id": "1970329131942001",
+				"stop_id": "1970329131942001",
+				"name": "Les Confréries",
+				"stop_name": "Les Confréries",
+				"x": "6.765438",
+				"y": "46.542535",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131943833",
+				"stop_id": "1970329131943833",
+				"name": "Froid. Croisée",
+				"stop_name": "Froid. Croisée",
+				"x": "6.679165",
+				"y": "46.601207",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131943835",
+				"stop_id": "1970329131943835",
+				"name": "Froid. Village",
+				"stop_name": "Froid. Village",
+				"x": "6.675896",
+				"y": "46.599799",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131943834",
+				"stop_id": "1970329131943834",
+				"name": "Froideville-Lait",
+				"stop_name": "Froideville-Lait",
+				"x": "6.682452",
+				"y": "46.600936",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131942077",
+				"stop_id": "1970329131942077",
+				"name": "Froideville-Laiterie",
+				"stop_name": "Froideville-Laiterie",
+				"x": "6.681992",
+				"y": "46.601140",
+				"line": []
+			},
+			{
+				"id": "1970329131943952",
+				"stop_id": "1970329131943952",
+				"name": "Grandvaux, Gare",
+				"stop_name": "Grandvaux, Gare",
+				"x": "6.720541",
+				"y": "46.496587",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131943912",
+				"stop_id": "1970329131943912",
+				"name": "Grandvaux, Pra G",
+				"stop_name": "Grandvaux, Pra G",
+				"x": "6.714122",
+				"y": "46.503190",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131943928",
+				"stop_id": "1970329131943928",
+				"name": "Jouxtens-Mézery",
+				"stop_name": "Jouxtens-Mézery",
+				"x": "6.601770",
+				"y": "46.548481",
+				"line": [
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970500930634304",
+				"stop_id": "1970500930634304",
+				"name": "Jouxtens-Mézery",
+				"stop_name": "Jouxtens-Mézery",
+				"x": "6.601009",
+				"y": "46.549200",
+				"line": []
+			},
+			{
+				"id": "1970329131943930",
+				"stop_id": "1970329131943930",
+				"name": "Le Lussex",
+				"stop_name": "Le Lussex",
+				"x": "6.601407",
+				"y": "46.557178",
+				"line": [
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970500930634306",
+				"stop_id": "1970500930634306",
+				"name": "Le Lussex",
+				"stop_name": "Le Lussex",
+				"x": "6.601452",
+				"y": "46.557268",
+				"line": []
+			},
+			{
+				"id": "1970329131941892",
+				"stop_id": "1970329131941892",
+				"name": "Abeilles",
+				"stop_name": "Abeilles",
+				"x": "6.647997",
+				"y": "46.541116",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					}
+				]
+			},
+			{
+				"id": "1970329131941894",
+				"stop_id": "1970329131941894",
+				"name": "Allières",
+				"stop_name": "Allières",
+				"x": "6.647518",
+				"y": "46.523958",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131941895",
+				"stop_id": "1970329131941895",
+				"name": "Alpes",
+				"stop_name": "Alpes",
+				"x": "6.636704",
+				"y": "46.514985",
+				"line": [
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1972901817352222",
+				"stop_id": "1972901817352222",
+				"name": "Argand",
+				"stop_name": "Argand",
+				"x": "6.571870",
+				"y": "46.520553",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					},
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131941899",
+				"stop_id": "1970329131941899",
+				"name": "Aubépines",
+				"stop_name": "Aubépines",
+				"x": "6.619223",
+				"y": "46.527387",
+				"line": [
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131943918",
+				"stop_id": "1970329131943918",
+				"name": "Avenue Perronet",
+				"stop_name": "Avenue Perronet",
+				"x": "6.562667",
+				"y": "46.521081",
+				"line": [
+					{
+						"line_short_name": "88",
+						"lineShortName": "88"
+					}
+				]
+			},
+			{
+				"id": "1970329131942113",
+				"stop_id": "1970329131942113",
+				"name": "Avenue du Léman",
+				"stop_name": "Avenue du Léman",
+				"x": "6.645371",
+				"y": "46.515720",
+				"line": [
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131941906",
+				"stop_id": "1970329131941906",
+				"name": "Barre",
+				"stop_name": "Barre",
+				"x": "6.636062",
+				"y": "46.525744",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131941908",
+				"stop_id": "1970329131941908",
+				"name": "Batelière",
+				"stop_name": "Batelière",
+				"x": "6.612646",
+				"y": "46.516418",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131941903",
+				"stop_id": "1970329131941903",
+				"name": "Beau-Rivage",
+				"stop_name": "Beau-Rivage",
+				"x": "6.627571",
+				"y": "46.508307",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131941951",
+				"stop_id": "1970329131941951",
+				"name": "Beau-Site",
+				"stop_name": "Beau-Site",
+				"x": "6.620702",
+				"y": "46.535174",
+				"line": [
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131941927",
+				"stop_id": "1970329131941927",
+				"name": "Beaulieu",
+				"stop_name": "Beaulieu",
+				"x": "6.623788",
+				"y": "46.528085",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131941928",
+				"stop_id": "1970329131941928",
+				"name": "Beaulieu-Jomini",
+				"stop_name": "Beaulieu-Jomini",
+				"x": "6.626199",
+				"y": "46.527457",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "86",
+						"lineShortName": "86"
+					}
+				]
+			},
+			{
+				"id": "1970329131941919",
+				"stop_id": "1970329131941919",
+				"name": "Beauregard",
+				"stop_name": "Beauregard",
+				"x": "6.623213",
+				"y": "46.512603",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "85",
+						"lineShortName": "85"
+					}
+				]
+			},
+			{
+				"id": "1970329131941902",
+				"stop_id": "1970329131941902",
+				"name": "Bel-Air",
+				"stop_name": "Bel-Air",
+				"x": "6.628971",
+				"y": "46.522311",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "29",
+						"lineShortName": "29"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131943920",
+				"stop_id": "1970329131943920",
+				"name": "Bel-Air LEB",
+				"stop_name": "Bel-Air LEB",
+				"x": "6.605707",
+				"y": "46.578248",
+				"line": [
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941954",
+				"stop_id": "1970329131941954",
+				"name": "Bellerive",
+				"stop_name": "Bellerive",
+				"x": "6.617175",
+				"y": "46.511665",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131941912",
+				"stop_id": "1970329131941912",
+				"name": "Bellevaux",
+				"stop_name": "Bellevaux",
+				"x": "6.633910",
+				"y": "46.539212",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131941929",
+				"stop_id": "1970329131941929",
+				"name": "Belvédère",
+				"stop_name": "Belvédère",
+				"x": "6.617197",
+				"y": "46.520899",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131941913",
+				"stop_id": "1970329131941913",
+				"name": "Benj. Constant",
+				"stop_name": "Benj. Constant",
+				"x": "6.637454",
+				"y": "46.519299",
+				"line": [
+					{
+						"line_short_name": "13",
+						"lineShortName": "13"
+					},
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131941915",
+				"stop_id": "1970329131941915",
+				"name": "Bergières",
+				"stop_name": "Bergières",
+				"x": "6.618731",
+				"y": "46.530613",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131941916",
+				"stop_id": "1970329131941916",
+				"name": "Bessières",
+				"stop_name": "Bessières",
+				"x": "6.637071",
+				"y": "46.521028",
+				"line": [
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "85",
+						"lineShortName": "85"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131941924",
+				"stop_id": "1970329131941924",
+				"name": "Blécherette",
+				"stop_name": "Blécherette",
+				"x": "6.621090",
+				"y": "46.542311",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131941936",
+				"stop_id": "1970329131941936",
+				"name": "Bois de Vaux",
+				"stop_name": "Bois de Vaux",
+				"x": "6.599915",
+				"y": "46.519333",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131941920",
+				"stop_id": "1970329131941920",
+				"name": "Bois-Gentil",
+				"stop_name": "Bois-Gentil",
+				"x": "6.622234",
+				"y": "46.538599",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					}
+				]
+			},
+			{
+				"id": "1970329131941935",
+				"stop_id": "1970329131941935",
+				"name": "Boissonnet",
+				"stop_name": "Boissonnet",
+				"x": "6.646348",
+				"y": "46.538883",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					}
+				]
+			},
+			{
+				"id": "1970329131941937",
+				"stop_id": "1970329131941937",
+				"name": "Boisy",
+				"stop_name": "Boisy",
+				"x": "6.619376",
+				"y": "46.533213",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131942059",
+				"stop_id": "1970329131942059",
+				"name": "Bonne-Espérance",
+				"stop_name": "Bonne-Espérance",
+				"x": "6.649797",
+				"y": "46.514946",
+				"line": [
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131941939",
+				"stop_id": "1970329131941939",
+				"name": "Bossons",
+				"stop_name": "Bossons",
+				"x": "6.617219",
+				"y": "46.539211",
+				"line": [
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131941940",
+				"stop_id": "1970329131941940",
+				"name": "Boston",
+				"stop_name": "Boston",
+				"x": "6.622708",
+				"y": "46.523892",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "29",
+						"lineShortName": "29"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					},
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941931",
+				"stop_id": "1970329131941931",
+				"name": "Bourdonnette",
+				"stop_name": "Bourdonnette",
+				"x": "6.590119",
+				"y": "46.523232",
+				"line": [
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131943856",
+				"stop_id": "1970329131943856",
+				"name": "Bourdonnette n",
+				"stop_name": "Bourdonnette n",
+				"x": "6.589160",
+				"y": "46.524899",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131941943",
+				"stop_id": "1970329131941943",
+				"name": "Boveresses",
+				"stop_name": "Boveresses",
+				"x": "6.663516",
+				"y": "46.535354",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131943878",
+				"stop_id": "1970329131943878",
+				"name": "Bressonaz, Vill.",
+				"stop_name": "Bressonaz, Vill.",
+				"x": "6.788855",
+				"y": "46.651782",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131943764",
+				"stop_id": "1970329131943764",
+				"name": "Burenoz",
+				"stop_name": "Burenoz",
+				"x": "6.672568",
+				"y": "46.521201",
+				"line": [
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					}
+				]
+			},
+			{
+				"id": "1970329131941953",
+				"stop_id": "1970329131941953",
+				"name": "Buyère",
+				"stop_name": "Buyère",
+				"x": "6.563587",
+				"y": "46.549947",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					}
+				]
+			},
+			{
+				"id": "1970329131941917",
+				"stop_id": "1970329131941917",
+				"name": "Béthanie",
+				"stop_name": "Béthanie",
+				"x": "6.613472",
+				"y": "46.534465",
+				"line": [
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131941918",
+				"stop_id": "1970329131941918",
+				"name": "Béthusy",
+				"stop_name": "Béthusy",
+				"x": "6.646538",
+				"y": "46.521859",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					}
+				]
+			},
+			{
+				"id": "1970329131943769",
+				"stop_id": "1970329131943769",
+				"name": "C. Sportif Roch.",
+				"stop_name": "C. Sportif Roch.",
+				"x": "6.669835",
+				"y": "46.511764",
+				"line": [
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					}
+				]
+			},
+			{
+				"id": "1970329131942362",
+				"stop_id": "1970329131942362",
+				"name": "CHUV",
+				"stop_name": "CHUV",
+				"x": "6.641382",
+				"y": "46.526430",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1972901817352225",
+				"stop_id": "1972901817352225",
+				"name": "Cascades",
+				"stop_name": "Cascades",
+				"x": "6.641023",
+				"y": "46.540159",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131941958",
+				"stop_id": "1970329131941958",
+				"name": "Casernes",
+				"stop_name": "Casernes",
+				"x": "6.628089",
+				"y": "46.531681",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131943765",
+				"stop_id": "1970329131943765",
+				"name": "Caudoz",
+				"stop_name": "Caudoz",
+				"x": "6.667320",
+				"y": "46.511792",
+				"line": [
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					}
+				]
+			},
+			{
+				"id": "1970329131943857",
+				"stop_id": "1970329131943857",
+				"name": "Caudray",
+				"stop_name": "Caudray",
+				"x": "6.585652",
+				"y": "46.531651",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131943798",
+				"stop_id": "1970329131943798",
+				"name": "Centre médical",
+				"stop_name": "Centre médical",
+				"x": "6.770944",
+				"y": "46.592229",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131943789",
+				"stop_id": "1970329131943789",
+				"name": "Chaffeises",
+				"stop_name": "Chaffeises",
+				"x": "6.673732",
+				"y": "46.513976",
+				"line": [
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					}
+				]
+			},
+			{
+				"id": "1970329131941978",
+				"stop_id": "1970329131941978",
+				"name": "Chailly-Village",
+				"stop_name": "Chailly-Village",
+				"x": "6.655147",
+				"y": "46.523237",
+				"line": [
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					}
+				]
+			},
+			{
+				"id": "1970329131942133",
+				"stop_id": "1970329131942133",
+				"name": "Chalet à Matthey",
+				"stop_name": "Chalet à Matthey",
+				"x": "6.691327",
+				"y": "46.550977",
+				"line": [
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131941977",
+				"stop_id": "1970329131941977",
+				"name": "Chalet-Fontaine",
+				"stop_name": "Chalet-Fontaine",
+				"x": "6.699696",
+				"y": "46.567787",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131941985",
+				"stop_id": "1970329131941985",
+				"name": "Chalet-à-Gobet",
+				"stop_name": "Chalet-à-Gobet",
+				"x": "6.692448",
+				"y": "46.564812",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942021",
+				"stop_id": "1970329131942021",
+				"name": "Champ Rond",
+				"stop_name": "Champ Rond",
+				"x": "6.650237",
+				"y": "46.531907",
+				"line": [
+					{
+						"line_short_name": "42",
+						"lineShortName": "42"
+					}
+				]
+			},
+			{
+				"id": "1970329131941970",
+				"stop_id": "1970329131941970",
+				"name": "Chandolin",
+				"stop_name": "Chandolin",
+				"x": "6.644635",
+				"y": "46.517469",
+				"line": [
+					{
+						"line_short_name": "13",
+						"lineShortName": "13"
+					}
+				]
+			},
+			{
+				"id": "1970329131943776",
+				"stop_id": "1970329131943776",
+				"name": "Charmeur (EVAM)",
+				"stop_name": "Charmeur (EVAM)",
+				"x": "6.570427",
+				"y": "46.558051",
+				"line": [
+					{
+						"line_short_name": "81",
+						"lineShortName": "81"
+					}
+				]
+			},
+			{
+				"id": "1970329131941987",
+				"stop_id": "1970329131941987",
+				"name": "Chauderon",
+				"stop_name": "Chauderon",
+				"x": "6.626833",
+				"y": "46.523676",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "29",
+						"lineShortName": "29"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941893",
+				"stop_id": "1970329131941893",
+				"name": "Chauderon-Ale",
+				"stop_name": "Chauderon-Ale",
+				"x": "6.627267",
+				"y": "46.523819",
+				"line": [
+					{
+						"line_short_name": "29",
+						"lineShortName": "29"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "82",
+						"lineShortName": "82"
+					}
+				]
+			},
+			{
+				"id": "1970329131941955",
+				"stop_id": "1970329131941955",
+				"name": "Chemin du Cap",
+				"stop_name": "Chemin du Cap",
+				"x": "6.649244",
+				"y": "46.514672",
+				"line": [
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					}
+				]
+			},
+			{
+				"id": "1970329131943946",
+				"stop_id": "1970329131943946",
+				"name": "Chenaux",
+				"stop_name": "Chenaux",
+				"x": "6.727881",
+				"y": "46.494672",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "2056782528643089",
+				"stop_id": "2056782528643089",
+				"name": "Cheseaux, gare",
+				"stop_name": "Cheseaux, gare",
+				"x": "6.605131",
+				"y": "46.584193",
+				"line": [
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					}
+				]
+			},
+			{
+				"id": "1970329131941975",
+				"stop_id": "1970329131941975",
+				"name": "Chevreuils",
+				"stop_name": "Chevreuils",
+				"x": "6.696698",
+				"y": "46.558632",
+				"line": [
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131941981",
+				"stop_id": "1970329131941981",
+				"name": "Chocolatière",
+				"stop_name": "Chocolatière",
+				"x": "6.640970",
+				"y": "46.536277",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131943766",
+				"stop_id": "1970329131943766",
+				"name": "Châtelard",
+				"stop_name": "Châtelard",
+				"x": "6.592309",
+				"y": "46.578112",
+				"line": [
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					}
+				]
+			},
+			{
+				"id": "1970329131941989",
+				"stop_id": "1970329131941989",
+				"name": "Cigale",
+				"stop_name": "Cigale",
+				"x": "6.647189",
+				"y": "46.543333",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					}
+				]
+			},
+			{
+				"id": "1970329131941993",
+				"stop_id": "1970329131941993",
+				"name": "Clochatte",
+				"stop_name": "Clochatte",
+				"x": "6.638495",
+				"y": "46.542755",
+				"line": [
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					}
+				]
+			},
+			{
+				"id": "1970329131941994",
+				"stop_id": "1970329131941994",
+				"name": "Closelet",
+				"stop_name": "Closelet",
+				"x": "6.632355",
+				"y": "46.515138",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131943923",
+				"stop_id": "1970329131943923",
+				"name": "Colladon",
+				"stop_name": "Colladon",
+				"x": "6.562298",
+				"y": "46.518118",
+				"line": [
+					{
+						"line_short_name": "88",
+						"lineShortName": "88"
+					}
+				]
+			},
+			{
+				"id": "1970329131943777",
+				"stop_id": "1970329131943777",
+				"name": "Collège Marcolet",
+				"stop_name": "Collège Marcolet",
+				"x": "6.574930",
+				"y": "46.544754",
+				"line": [
+					{
+						"line_short_name": "81",
+						"lineShortName": "81"
+					}
+				]
+			},
+			{
+				"id": "2056782528643090",
+				"stop_id": "2056782528643090",
+				"name": "Collège/parc",
+				"stop_name": "Collège/parc",
+				"x": "6.648726",
+				"y": "46.639273",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131943947",
+				"stop_id": "1970329131943947",
+				"name": "Colombaires",
+				"stop_name": "Colombaires",
+				"x": "6.729458",
+				"y": "46.490076",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131942007",
+				"stop_id": "1970329131942007",
+				"name": "Cottages",
+				"stop_name": "Cottages",
+				"x": "6.610082",
+				"y": "46.521338",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942014",
+				"stop_id": "1970329131942014",
+				"name": "Couchirard",
+				"stop_name": "Couchirard",
+				"x": "6.613028",
+				"y": "46.525088",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131941963",
+				"stop_id": "1970329131941963",
+				"name": "Coudrette",
+				"stop_name": "Coudrette",
+				"x": "6.658468",
+				"y": "46.522459",
+				"line": [
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					}
+				]
+			},
+			{
+				"id": "1970329131942009",
+				"stop_id": "1970329131942009",
+				"name": "Cour",
+				"stop_name": "Cour",
+				"x": "6.625871",
+				"y": "46.512663",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942013",
+				"stop_id": "1970329131942013",
+				"name": "Craivavers",
+				"stop_name": "Craivavers",
+				"x": "6.659187",
+				"y": "46.531357",
+				"line": [
+					{
+						"line_short_name": "42",
+						"lineShortName": "42"
+					}
+				]
+			},
+			{
+				"id": "1970329131943755",
+				"stop_id": "1970329131943755",
+				"name": "Croix d'Ouchy",
+				"stop_name": "Croix d'Ouchy",
+				"x": "6.629785",
+				"y": "46.512336",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131941965",
+				"stop_id": "1970329131941965",
+				"name": "Cèdres",
+				"stop_name": "Cèdres",
+				"x": "6.619088",
+				"y": "46.514845",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131941964",
+				"stop_id": "1970329131941964",
+				"name": "Cécil",
+				"stop_name": "Cécil",
+				"x": "6.622771",
+				"y": "46.520773",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "85",
+						"lineShortName": "85"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942034",
+				"stop_id": "1970329131942034",
+				"name": "Dapples",
+				"stop_name": "Dapples",
+				"x": "6.625502",
+				"y": "46.514617",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					}
+				]
+			},
+			{
+				"id": "1970329131942028",
+				"stop_id": "1970329131942028",
+				"name": "Denantou",
+				"stop_name": "Denantou",
+				"x": "6.638860",
+				"y": "46.507965",
+				"line": [
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942029",
+				"stop_id": "1970329131942029",
+				"name": "Devin",
+				"stop_name": "Devin",
+				"x": "6.652101",
+				"y": "46.530152",
+				"line": [
+					{
+						"line_short_name": "42",
+						"lineShortName": "42"
+					}
+				]
+			},
+			{
+				"id": "1970329131943858",
+				"stop_id": "1970329131943858",
+				"name": "Dorigny-Léman",
+				"stop_name": "Dorigny-Léman",
+				"x": "6.583028",
+				"y": "46.527394",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131942036",
+				"stop_id": "1970329131942036",
+				"name": "Dranse",
+				"stop_name": "Dranse",
+				"x": "6.616305",
+				"y": "46.530303",
+				"line": [
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942038",
+				"stop_id": "1970329131942038",
+				"name": "Druey",
+				"stop_name": "Druey",
+				"x": "6.627803",
+				"y": "46.529778",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942037",
+				"stop_id": "1970329131942037",
+				"name": "Druey-Collège",
+				"stop_name": "Druey-Collège",
+				"x": "6.630437",
+				"y": "46.528425",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942030",
+				"stop_id": "1970329131942030",
+				"name": "Délices",
+				"stop_name": "Délices",
+				"x": "6.628058",
+				"y": "46.512146",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "2056782528643095",
+				"stop_id": "2056782528643095",
+				"name": "Dépôt Lausanne-F",
+				"stop_name": "Dépôt Lausanne-F",
+				"x": "6.629801",
+				"y": "46.520823",
+				"line": []
+			},
+			{
+				"id": "1970329131942039",
+				"stop_id": "1970329131942039",
+				"name": "Désert",
+				"stop_name": "Désert",
+				"x": "6.612374",
+				"y": "46.539765",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "2056782528643076",
+				"stop_id": "2056782528643076",
+				"name": "Dévent",
+				"stop_name": "Dévent",
+				"x": "6.558510",
+				"y": "46.536252",
+				"line": []
+			},
+			{
+				"id": "1970329131942057",
+				"stop_id": "1970329131942057",
+				"name": "EPSIC",
+				"stop_name": "EPSIC",
+				"x": "6.621096",
+				"y": "46.523347",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131942045",
+				"stop_id": "1970329131942045",
+				"name": "Ecole Commerce",
+				"stop_name": "Ecole Commerce",
+				"x": "6.621987",
+				"y": "46.526520",
+				"line": [
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942042",
+				"stop_id": "1970329131942042",
+				"name": "Ecole Hôtelière",
+				"stop_name": "Ecole Hôtelière",
+				"x": "6.682504",
+				"y": "46.561786",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942044",
+				"stop_id": "1970329131942044",
+				"name": "Ecole Métiers",
+				"stop_name": "Ecole Métiers",
+				"x": "6.616364",
+				"y": "46.524312",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131942047",
+				"stop_id": "1970329131942047",
+				"name": "Eglantine",
+				"stop_name": "Eglantine",
+				"x": "6.641844",
+				"y": "46.516348",
+				"line": [
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942048",
+				"stop_id": "1970329131942048",
+				"name": "Elysée",
+				"stop_name": "Elysée",
+				"x": "6.632296",
+				"y": "46.510851",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "85",
+						"lineShortName": "85"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					}
+				]
+			},
+			{
+				"id": "2056782528643091",
+				"stop_id": "2056782528643091",
+				"name": "Emile Gardaz",
+				"stop_name": "Emile Gardaz",
+				"x": "6.637908",
+				"y": "46.640384",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131942128",
+				"stop_id": "1970329131942128",
+				"name": "En Marin",
+				"stop_name": "En Marin",
+				"x": "6.684115",
+				"y": "46.557092",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942841",
+				"stop_id": "1970329131942841",
+				"name": "Entre-Bois",
+				"stop_name": "Entre-Bois",
+				"x": "6.631815",
+				"y": "46.540895",
+				"line": [
+					{
+						"line_short_name": "23",
+						"lineShortName": "23"
+					}
+				]
+			},
+			{
+				"id": "1970329131942058",
+				"stop_id": "1970329131942058",
+				"name": "Epinettes",
+				"stop_name": "Epinettes",
+				"x": "6.625766",
+				"y": "46.516144",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942062",
+				"stop_id": "1970329131942062",
+				"name": "Fauconnières",
+				"stop_name": "Fauconnières",
+				"x": "6.649759",
+				"y": "46.524936",
+				"line": [
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					}
+				]
+			},
+			{
+				"id": "1970329131942063",
+				"stop_id": "1970329131942063",
+				"name": "Faverges",
+				"stop_name": "Faverges",
+				"x": "6.645998",
+				"y": "46.513831",
+				"line": [
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					}
+				]
+			},
+			{
+				"id": "1970329131943797",
+				"stop_id": "1970329131943797",
+				"name": "Feleire",
+				"stop_name": "Feleire",
+				"x": "6.569887",
+				"y": "46.550648",
+				"line": [
+					{
+						"line_short_name": "36",
+						"lineShortName": "36"
+					}
+				]
+			},
+			{
+				"id": "1970329131942064",
+				"stop_id": "1970329131942064",
+				"name": "Figuiers",
+				"stop_name": "Figuiers",
+				"x": "6.610690",
+				"y": "46.516977",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942075",
+				"stop_id": "1970329131942075",
+				"name": "Floreyres",
+				"stop_name": "Floreyres",
+				"x": "6.648582",
+				"y": "46.517128",
+				"line": [
+					{
+						"line_short_name": "13",
+						"lineShortName": "13"
+					}
+				]
+			},
+			{
+				"id": "1970329131942069",
+				"stop_id": "1970329131942069",
+				"name": "Fontenay",
+				"stop_name": "Fontenay",
+				"x": "6.618457",
+				"y": "46.516910",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942071",
+				"stop_id": "1970329131942071",
+				"name": "Forêt",
+				"stop_name": "Forêt",
+				"x": "6.634433",
+				"y": "46.535143",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "23",
+						"lineShortName": "23"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942339",
+				"stop_id": "1970329131942339",
+				"name": "Fourmi",
+				"stop_name": "Fourmi",
+				"x": "6.650942",
+				"y": "46.538786",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942074",
+				"stop_id": "1970329131942074",
+				"name": "Foyer",
+				"stop_name": "Foyer",
+				"x": "6.660035",
+				"y": "46.533130",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					},
+					{
+						"line_short_name": "42",
+						"lineShortName": "42"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131943951",
+				"stop_id": "1970329131943951",
+				"name": "Genevrey",
+				"stop_name": "Genevrey",
+				"x": "6.716036",
+				"y": "46.498853",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131942095",
+				"stop_id": "1970329131942095",
+				"name": "Georgette",
+				"stop_name": "Georgette",
+				"x": "6.637970",
+				"y": "46.517369",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942338",
+				"stop_id": "1970329131942338",
+				"name": "Grancy",
+				"stop_name": "Grancy",
+				"x": "6.628906",
+				"y": "46.515072",
+				"line": [
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942096",
+				"stop_id": "1970329131942096",
+				"name": "Grand Vennes",
+				"stop_name": "Grand Vennes",
+				"x": "6.646082",
+				"y": "46.540118",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942081",
+				"stop_id": "1970329131942081",
+				"name": "Grande-Borde",
+				"stop_name": "Grande-Borde",
+				"x": "6.631934",
+				"y": "46.529821",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "2056782528643080",
+				"stop_id": "2056782528643080",
+				"name": "Grands Champs",
+				"stop_name": "Grands Champs",
+				"x": "6.677005",
+				"y": "46.523107",
+				"line": []
+			},
+			{
+				"id": "1970329131942085",
+				"stop_id": "1970329131942085",
+				"name": "Grangette",
+				"stop_name": "Grangette",
+				"x": "6.633189",
+				"y": "46.541431",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942089",
+				"stop_id": "1970329131942089",
+				"name": "Grattapaille",
+				"stop_name": "Grattapaille",
+				"x": "6.618894",
+				"y": "46.536664",
+				"line": [
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131942092",
+				"stop_id": "1970329131942092",
+				"name": "Grey",
+				"stop_name": "Grey",
+				"x": "6.618679",
+				"y": "46.533612",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131943784",
+				"stop_id": "1970329131943784",
+				"name": "Gymnase Provence",
+				"stop_name": "Gymnase Provence",
+				"x": "6.610964",
+				"y": "46.522865",
+				"line": []
+			},
+			{
+				"id": "1970329131942102",
+				"stop_id": "1970329131942102",
+				"name": "Haute Combe",
+				"stop_name": "Haute Combe",
+				"x": "6.684492",
+				"y": "46.544612",
+				"line": [
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942099",
+				"stop_id": "1970329131942099",
+				"name": "Hermitage",
+				"stop_name": "Hermitage",
+				"x": "6.636242",
+				"y": "46.530146",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "86",
+						"lineShortName": "86"
+					}
+				]
+			},
+			{
+				"id": "1970329131942106",
+				"stop_id": "1970329131942106",
+				"name": "Jordils",
+				"stop_name": "Jordils",
+				"x": "6.627896",
+				"y": "46.510077",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942109",
+				"stop_id": "1970329131942109",
+				"name": "Jurigoz",
+				"stop_name": "Jurigoz",
+				"x": "6.636633",
+				"y": "46.512717",
+				"line": [
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "2056782528643092",
+				"stop_id": "2056782528643092",
+				"name": "La Robellaz",
+				"stop_name": "La Robellaz",
+				"x": "6.641667",
+				"y": "46.640573",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131942266",
+				"stop_id": "1970329131942266",
+				"name": "Lac Sauvabelin",
+				"stop_name": "Lac Sauvabelin",
+				"x": "6.639057",
+				"y": "46.539091",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942114",
+				"stop_id": "1970329131942114",
+				"name": "Languedoc",
+				"stop_name": "Languedoc",
+				"x": "6.617047",
+				"y": "46.517934",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942066",
+				"stop_id": "1970329131942066",
+				"name": "Lausanne-Flon",
+				"stop_name": "Lausanne-Flon",
+				"x": "6.630271",
+				"y": "46.521022",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					},
+					{
+						"line_short_name": "N1",
+						"lineShortName": "N1"
+					},
+					{
+						"line_short_name": "N2",
+						"lineShortName": "N2"
+					},
+					{
+						"line_short_name": "N3",
+						"lineShortName": "N3"
+					},
+					{
+						"line_short_name": "N4",
+						"lineShortName": "N4"
+					},
+					{
+						"line_short_name": "N5",
+						"lineShortName": "N5"
+					},
+					{
+						"line_short_name": "N6",
+						"lineShortName": "N6"
+					},
+					{
+						"line_short_name": "N6",
+						"lineShortName": "N6"
+					},
+					{
+						"line_short_name": "N7",
+						"lineShortName": "N7"
+					},
+					{
+						"line_short_name": "N8",
+						"lineShortName": "N8"
+					},
+					{
+						"line_short_name": "N9",
+						"lineShortName": "N9"
+					},
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942080",
+				"stop_id": "1970329131942080",
+				"name": "Lausanne-Gare",
+				"stop_name": "Lausanne-Gare",
+				"x": "6.630369",
+				"y": "46.517244",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					},
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942110",
+				"stop_id": "1970329131942110",
+				"name": "Les Chavannes",
+				"stop_name": "Les Chavannes",
+				"x": "6.657682",
+				"y": "46.530399",
+				"line": [
+					{
+						"line_short_name": "42",
+						"lineShortName": "42"
+					}
+				]
+			},
+			{
+				"id": "1970329131942116",
+				"stop_id": "1970329131942116",
+				"name": "Libellules",
+				"stop_name": "Libellules",
+				"x": "6.644138",
+				"y": "46.540689",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942118",
+				"stop_id": "1970329131942118",
+				"name": "Lisière",
+				"stop_name": "Lisière",
+				"x": "6.637526",
+				"y": "46.532452",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942124",
+				"stop_id": "1970329131942124",
+				"name": "Maladière",
+				"stop_name": "Maladière",
+				"x": "6.604869",
+				"y": "46.517521",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131943790",
+				"stop_id": "1970329131943790",
+				"name": "Maladière-Fig.",
+				"stop_name": "Maladière-Fig.",
+				"x": "6.606057",
+				"y": "46.516945",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131942125",
+				"stop_id": "1970329131942125",
+				"name": "Maladière-Lac",
+				"stop_name": "Maladière-Lac",
+				"x": "6.605326",
+				"y": "46.516166",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "N9",
+						"lineShortName": "N9"
+					}
+				]
+			},
+			{
+				"id": "1970329131943770",
+				"stop_id": "1970329131943770",
+				"name": "Malavaux",
+				"stop_name": "Malavaux",
+				"x": "6.676406",
+				"y": "46.520696",
+				"line": [
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					}
+				]
+			},
+			{
+				"id": "1970329131942126",
+				"stop_id": "1970329131942126",
+				"name": "Malley",
+				"stop_name": "Malley",
+				"x": "6.603066",
+				"y": "46.524097",
+				"line": [
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					},
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131943873",
+				"stop_id": "1970329131943873",
+				"name": "Malley-Sud",
+				"stop_name": "Malley-Sud",
+				"x": "6.603088",
+				"y": "46.523985",
+				"line": []
+			},
+			{
+				"id": "1970329131943859",
+				"stop_id": "1970329131943859",
+				"name": "Marbrerie",
+				"stop_name": "Marbrerie",
+				"x": "6.602493",
+				"y": "46.517774",
+				"line": [
+					{
+						"line_short_name": "85",
+						"lineShortName": "85"
+					}
+				]
+			},
+			{
+				"id": "1972901817352203",
+				"stop_id": "1972901817352203",
+				"name": "Marcel Regamey",
+				"stop_name": "Marcel Regamey",
+				"x": "6.674715",
+				"y": "46.548595",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "N3",
+						"lineShortName": "N3"
+					}
+				]
+			},
+			{
+				"id": "1970329131943771",
+				"stop_id": "1970329131943771",
+				"name": "Martheray",
+				"stop_name": "Martheray",
+				"x": "6.596887",
+				"y": "46.581510",
+				"line": [
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					}
+				]
+			},
+			{
+				"id": "1970329131942134",
+				"stop_id": "1970329131942134",
+				"name": "Mauvernay",
+				"stop_name": "Mauvernay",
+				"x": "6.688915",
+				"y": "46.564559",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "2056782528643079",
+				"stop_id": "2056782528643079",
+				"name": "Mex VD, Faraz",
+				"stop_name": "Mex VD, Faraz",
+				"x": "6.550666",
+				"y": "46.566193",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1970329131942144",
+				"stop_id": "1970329131942144",
+				"name": "Mirabeau",
+				"stop_name": "Mirabeau",
+				"x": "6.634850",
+				"y": "46.516937",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942153",
+				"stop_id": "1970329131942153",
+				"name": "Molliettes",
+				"stop_name": "Molliettes",
+				"x": "6.693652",
+				"y": "46.553044",
+				"line": [
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942162",
+				"stop_id": "1970329131942162",
+				"name": "Mon Repos",
+				"stop_name": "Mon Repos",
+				"x": "6.640908",
+				"y": "46.518846",
+				"line": [
+					{
+						"line_short_name": "13",
+						"lineShortName": "13"
+					}
+				]
+			},
+			{
+				"id": "1970329131943758",
+				"stop_id": "1970329131943758",
+				"name": "Mont d'Or",
+				"stop_name": "Mont d'Or",
+				"x": "6.615140",
+				"y": "46.516940",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942164",
+				"stop_id": "1970329131942164",
+				"name": "Mont-Blanc",
+				"stop_name": "Mont-Blanc",
+				"x": "6.626962",
+				"y": "46.530200",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942167",
+				"stop_id": "1970329131942167",
+				"name": "Mont-Fleuri",
+				"stop_name": "Mont-Fleuri",
+				"x": "6.631720",
+				"y": "46.514463",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942136",
+				"stop_id": "1970329131942136",
+				"name": "Montbenon",
+				"stop_name": "Montbenon",
+				"x": "6.629986",
+				"y": "46.519790",
+				"line": [
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					},
+					{
+						"line_short_name": "13",
+						"lineShortName": "13"
+					},
+					{
+						"line_short_name": "29",
+						"lineShortName": "29"
+					}
+				]
+			},
+			{
+				"id": "1970329131942135",
+				"stop_id": "1970329131942135",
+				"name": "Montblesson",
+				"stop_name": "Montblesson",
+				"x": "6.677611",
+				"y": "46.536510",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942171",
+				"stop_id": "1970329131942171",
+				"name": "Montchoisi",
+				"stop_name": "Montchoisi",
+				"x": "6.636947",
+				"y": "46.511169",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942165",
+				"stop_id": "1970329131942165",
+				"name": "Montelly",
+				"stop_name": "Montelly",
+				"x": "6.613230",
+				"y": "46.521398",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					},
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942169",
+				"stop_id": "1970329131942169",
+				"name": "Montoie",
+				"stop_name": "Montoie",
+				"x": "6.608557",
+				"y": "46.518331",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942156",
+				"stop_id": "1970329131942156",
+				"name": "Montolieu",
+				"stop_name": "Montolieu",
+				"x": "6.644043",
+				"y": "46.543153",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					}
+				]
+			},
+			{
+				"id": "1970329131942166",
+				"stop_id": "1970329131942166",
+				"name": "Montétan",
+				"stop_name": "Montétan",
+				"x": "6.613307",
+				"y": "46.529876",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					},
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131942157",
+				"stop_id": "1970329131942157",
+				"name": "Motte",
+				"stop_name": "Motte",
+				"x": "6.633406",
+				"y": "46.533408",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942160",
+				"stop_id": "1970329131942160",
+				"name": "Mousquines",
+				"stop_name": "Mousquines",
+				"x": "6.647016",
+				"y": "46.516843",
+				"line": [
+					{
+						"line_short_name": "13",
+						"lineShortName": "13"
+					}
+				]
+			},
+			{
+				"id": "1970329131942172",
+				"stop_id": "1970329131942172",
+				"name": "Musée Olympique",
+				"stop_name": "Musée Olympique",
+				"x": "6.635152",
+				"y": "46.509636",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "85",
+						"lineShortName": "85"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					}
+				]
+			},
+			{
+				"id": "1970329131943861",
+				"stop_id": "1970329131943861",
+				"name": "Musée Romain",
+				"stop_name": "Musée Romain",
+				"x": "6.598947",
+				"y": "46.518692",
+				"line": [
+					{
+						"line_short_name": "85",
+						"lineShortName": "85"
+					},
+					{
+						"line_short_name": "88",
+						"lineShortName": "88"
+					}
+				]
+			},
+			{
+				"id": "1970329131943860",
+				"stop_id": "1970329131943860",
+				"name": "Musée de la Main",
+				"stop_name": "Musée de la Main",
+				"x": "6.640579",
+				"y": "46.524345",
+				"line": [
+					{
+						"line_short_name": "86",
+						"lineShortName": "86"
+					}
+				]
+			},
+			{
+				"id": "1970329131942137",
+				"stop_id": "1970329131942137",
+				"name": "Mémise",
+				"stop_name": "Mémise",
+				"x": "6.633194",
+				"y": "46.527491",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942175",
+				"stop_id": "1970329131942175",
+				"name": "Oiseaux",
+				"stop_name": "Oiseaux",
+				"x": "6.629559",
+				"y": "46.530897",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					}
+				]
+			},
+			{
+				"id": "1970329131943962",
+				"stop_id": "1970329131943962",
+				"name": "Ouchy",
+				"stop_name": "Ouchy",
+				"x": "6.626269",
+				"y": "46.506989",
+				"line": []
+			},
+			{
+				"id": "1970329131943954",
+				"stop_id": "1970329131943954",
+				"name": "Ouchy-Olympique",
+				"stop_name": "Ouchy-Olympique",
+				"x": "6.626193",
+				"y": "46.507168",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942180",
+				"stop_id": "1970329131942180",
+				"name": "Ours",
+				"stop_name": "Ours",
+				"x": "6.640970",
+				"y": "46.521645",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942182",
+				"stop_id": "1970329131942182",
+				"name": "Parc Rivier",
+				"stop_name": "Parc Rivier",
+				"x": "6.615394",
+				"y": "46.536193",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942312",
+				"stop_id": "1970329131942312",
+				"name": "Parc Vélodrome",
+				"stop_name": "Parc Vélodrome",
+				"x": "6.623580",
+				"y": "46.536266",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942187",
+				"stop_id": "1970329131942187",
+				"name": "Pavement",
+				"stop_name": "Pavement",
+				"x": "6.634112",
+				"y": "46.541154",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					}
+				]
+			},
+			{
+				"id": "2056782528643088",
+				"stop_id": "2056782528643088",
+				"name": "Perronet",
+				"stop_name": "Perronet",
+				"x": "6.565102",
+				"y": "46.522017",
+				"line": []
+			},
+			{
+				"id": "1970329131942197",
+				"stop_id": "1970329131942197",
+				"name": "Perronnaz",
+				"stop_name": "Perronnaz",
+				"x": "6.679367",
+				"y": "46.542361",
+				"line": [
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942191",
+				"stop_id": "1970329131942191",
+				"name": "Petit Château",
+				"stop_name": "Petit Château",
+				"x": "6.635653",
+				"y": "46.527792",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942320",
+				"stop_id": "1970329131942320",
+				"name": "Pierre Viret",
+				"stop_name": "Pierre Viret",
+				"x": "6.633977",
+				"y": "46.523071",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942202",
+				"stop_id": "1970329131942202",
+				"name": "Pierrefleur",
+				"stop_name": "Pierrefleur",
+				"x": "6.616603",
+				"y": "46.534722",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942201",
+				"stop_id": "1970329131942201",
+				"name": "Piécettes",
+				"stop_name": "Piécettes",
+				"x": "6.636163",
+				"y": "46.541753",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					}
+				]
+			},
+			{
+				"id": "1970329131942173",
+				"stop_id": "1970329131942173",
+				"name": "Place du Nord",
+				"stop_name": "Place du Nord",
+				"x": "6.637483",
+				"y": "46.524807",
+				"line": [
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					}
+				]
+			},
+			{
+				"id": "1970329131942190",
+				"stop_id": "1970329131942190",
+				"name": "Pont Bessières",
+				"stop_name": "Pont Bessières",
+				"x": "6.636383",
+				"y": "46.521248",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942227",
+				"stop_id": "1970329131942227",
+				"name": "Pont Chauderon",
+				"stop_name": "Pont Chauderon",
+				"x": "6.625020",
+				"y": "46.524136",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942123",
+				"stop_id": "1970329131942123",
+				"name": "Pont Marc Dufour",
+				"stop_name": "Pont Marc Dufour",
+				"x": "6.618105",
+				"y": "46.519053",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942192",
+				"stop_id": "1970329131942192",
+				"name": "Pont de Chailly",
+				"stop_name": "Pont de Chailly",
+				"x": "6.651948",
+				"y": "46.526309",
+				"line": [
+					{
+						"line_short_name": "42",
+						"lineShortName": "42"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					}
+				]
+			},
+			{
+				"id": "1970329131942199",
+				"stop_id": "1970329131942199",
+				"name": "Port-Franc",
+				"stop_name": "Port-Franc",
+				"x": "6.626396",
+				"y": "46.522369",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "2056782528643081",
+				"stop_id": "2056782528643081",
+				"name": "Pra Pélisson",
+				"stop_name": "Pra Pélisson",
+				"x": "6.757141",
+				"y": "46.542881",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "2056782528643077",
+				"stop_id": "2056782528643077",
+				"name": "Praz Joret",
+				"stop_name": "Praz Joret",
+				"x": "6.772686",
+				"y": "46.583775",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942189",
+				"stop_id": "1970329131942189",
+				"name": "Praz-Berthoud",
+				"stop_name": "Praz-Berthoud",
+				"x": "6.647730",
+				"y": "46.537116",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					}
+				]
+			},
+			{
+				"id": "1970329131942213",
+				"stop_id": "1970329131942213",
+				"name": "Praz-Collet",
+				"stop_name": "Praz-Collet",
+				"x": "6.696423",
+				"y": "46.560173",
+				"line": [
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942225",
+				"stop_id": "1970329131942225",
+				"name": "Praz-Séchaud",
+				"stop_name": "Praz-Séchaud",
+				"x": "6.667017",
+				"y": "46.537545",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942214",
+				"stop_id": "1970329131942214",
+				"name": "Presbytère",
+				"stop_name": "Presbytère",
+				"x": "6.621354",
+				"y": "46.529120",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131942222",
+				"stop_id": "1970329131942222",
+				"name": "Provence",
+				"stop_name": "Provence",
+				"x": "6.608488",
+				"y": "46.523260",
+				"line": [
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131943793",
+				"stop_id": "1970329131943793",
+				"name": "Provence nord",
+				"stop_name": "Provence nord",
+				"x": "6.606070",
+				"y": "46.524133",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131943794",
+				"stop_id": "1970329131943794",
+				"name": "Provence sud",
+				"stop_name": "Provence sud",
+				"x": "6.608263",
+				"y": "46.521770",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942217",
+				"stop_id": "1970329131942217",
+				"name": "Prélaz",
+				"stop_name": "Prélaz",
+				"x": "6.612683",
+				"y": "46.526354",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942229",
+				"stop_id": "1970329131942229",
+				"name": "Prélaz-les-Roses",
+				"stop_name": "Prélaz-les-Roses",
+				"x": "6.606703",
+				"y": "46.527030",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131943882",
+				"stop_id": "1970329131943882",
+				"name": "Pâquis",
+				"stop_name": "Pâquis",
+				"x": "6.677667",
+				"y": "46.520012",
+				"line": [
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					}
+				]
+			},
+			{
+				"id": "1970329131942194",
+				"stop_id": "1970329131942194",
+				"name": "Pêcheurs",
+				"stop_name": "Pêcheurs",
+				"x": "6.620116",
+				"y": "46.509747",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942237",
+				"stop_id": "1970329131942237",
+				"name": "Rapille",
+				"stop_name": "Rapille",
+				"x": "6.612240",
+				"y": "46.536584",
+				"line": [
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942238",
+				"stop_id": "1970329131942238",
+				"name": "Rasude",
+				"stop_name": "Rasude",
+				"x": "6.633055",
+				"y": "46.516740",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942242",
+				"stop_id": "1970329131942242",
+				"name": "Recordon",
+				"stop_name": "Recordon",
+				"x": "6.618052",
+				"y": "46.525547",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942257",
+				"stop_id": "1970329131942257",
+				"name": "Riant-Cour",
+				"stop_name": "Riant-Cour",
+				"x": "6.616295",
+				"y": "46.515558",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131943791",
+				"stop_id": "1970329131943791",
+				"name": "Rionzi",
+				"stop_name": "Rionzi",
+				"x": "6.632722",
+				"y": "46.543460",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942248",
+				"stop_id": "1970329131942248",
+				"name": "Riponne-M.Béjart",
+				"stop_name": "Riponne-M.Béjart",
+				"x": "6.632336",
+				"y": "46.523278",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "85",
+						"lineShortName": "85"
+					},
+					{
+						"line_short_name": "86",
+						"lineShortName": "86"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942254",
+				"stop_id": "1970329131942254",
+				"name": "Rouvraie",
+				"stop_name": "Rouvraie",
+				"x": "6.631815",
+				"y": "46.532569",
+				"line": [
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131943772",
+				"stop_id": "1970329131943772",
+				"name": "Rouvène",
+				"stop_name": "Rouvène",
+				"x": "6.674786",
+				"y": "46.521437",
+				"line": [
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					}
+				]
+			},
+			{
+				"id": "1970329131942255",
+				"stop_id": "1970329131942255",
+				"name": "Rovéréaz",
+				"stop_name": "Rovéréaz",
+				"x": "6.667659",
+				"y": "46.532750",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942256",
+				"stop_id": "1970329131942256",
+				"name": "Rozavère",
+				"stop_name": "Rozavère",
+				"x": "6.655488",
+				"y": "46.528893",
+				"line": [
+					{
+						"line_short_name": "42",
+						"lineShortName": "42"
+					}
+				]
+			},
+			{
+				"id": "1970329131942250",
+				"stop_id": "1970329131942250",
+				"name": "Rue Neuve",
+				"stop_name": "Rue Neuve",
+				"x": "6.631125",
+				"y": "46.523370",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131943773",
+				"stop_id": "1970329131943773",
+				"name": "Ruisselet",
+				"stop_name": "Ruisselet",
+				"x": "6.664562",
+				"y": "46.512830",
+				"line": [
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					}
+				]
+			},
+			{
+				"id": "1970329131942253",
+				"stop_id": "1970329131942253",
+				"name": "Rôtillon",
+				"stop_name": "Rôtillon",
+				"x": "6.634256",
+				"y": "46.520936",
+				"line": [
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131942261",
+				"stop_id": "1970329131942261",
+				"name": "Sablons",
+				"stop_name": "Sablons",
+				"x": "6.595454",
+				"y": "46.522481",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131942262",
+				"stop_id": "1970329131942262",
+				"name": "Sallaz",
+				"stop_name": "Sallaz",
+				"x": "6.647328",
+				"y": "46.533500",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					},
+					{
+						"line_short_name": "42",
+						"lineShortName": "42"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942274",
+				"stop_id": "1970329131942274",
+				"name": "Signal",
+				"stop_name": "Signal",
+				"x": "6.640515",
+				"y": "46.532639",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942283",
+				"stop_id": "1970329131942283",
+				"name": "St-Etienne",
+				"stop_name": "St-Etienne",
+				"x": "6.649043",
+				"y": "46.534642",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942273",
+				"stop_id": "1970329131942273",
+				"name": "St-François",
+				"stop_name": "St-François",
+				"x": "6.633713",
+				"y": "46.519376",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					},
+					{
+						"line_short_name": "13",
+						"lineShortName": "13"
+					},
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "29",
+						"lineShortName": "29"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942280",
+				"stop_id": "1970329131942280",
+				"name": "St-Paul",
+				"stop_name": "St-Paul",
+				"x": "6.619280",
+				"y": "46.526209",
+				"line": [
+					{
+						"line_short_name": "29",
+						"lineShortName": "29"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942281",
+				"stop_id": "1970329131942281",
+				"name": "St-Roch",
+				"stop_name": "St-Roch",
+				"x": "6.625926",
+				"y": "46.525433",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "29",
+						"lineShortName": "29"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942279",
+				"stop_id": "1970329131942279",
+				"name": "Stade Olympique",
+				"stop_name": "Stade Olympique",
+				"x": "6.626106",
+				"y": "46.533841",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942285",
+				"stop_id": "1970329131942285",
+				"name": "Ste-Catherine",
+				"stop_name": "Ste-Catherine",
+				"x": "6.708718",
+				"y": "46.571021",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "2056782528643093",
+				"stop_id": "2056782528643093",
+				"name": "Sugnens, village",
+				"stop_name": "Sugnens, village",
+				"x": "6.671626",
+				"y": "46.655046",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131942299",
+				"stop_id": "1970329131942299",
+				"name": "Théâtre de Vidy",
+				"stop_name": "Théâtre de Vidy",
+				"x": "6.612047",
+				"y": "46.513804",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942293",
+				"stop_id": "1970329131942293",
+				"name": "Tivoli",
+				"stop_name": "Tivoli",
+				"x": "6.621618",
+				"y": "46.521170",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942296",
+				"stop_id": "1970329131942296",
+				"name": "Trabandan",
+				"stop_name": "Trabandan",
+				"x": "6.644528",
+				"y": "46.514549",
+				"line": [
+					{
+						"line_short_name": "12",
+						"lineShortName": "12"
+					}
+				]
+			},
+			{
+				"id": "1970329131941891",
+				"stop_id": "1970329131941891",
+				"name": "Trois-Chasseurs",
+				"stop_name": "Trois-Chasseurs",
+				"x": "6.684400",
+				"y": "46.534361",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942294",
+				"stop_id": "1970329131942294",
+				"name": "Tunnel",
+				"stop_name": "Tunnel",
+				"x": "6.634451",
+				"y": "46.525441",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1972901817352223",
+				"stop_id": "1972901817352223",
+				"name": "UNIL-Chamberonne",
+				"stop_name": "UNIL-Chamberonne",
+				"x": "6.584629",
+				"y": "46.524244",
+				"line": [
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942303",
+				"stop_id": "1970329131942303",
+				"name": "Valency",
+				"stop_name": "Valency",
+				"x": "6.611006",
+				"y": "46.531596",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942307",
+				"stop_id": "1970329131942307",
+				"name": "Valentin",
+				"stop_name": "Valentin",
+				"x": "6.631427",
+				"y": "46.524487",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131942305",
+				"stop_id": "1970329131942305",
+				"name": "Vallonnette",
+				"stop_name": "Vallonnette",
+				"x": "6.648508",
+				"y": "46.528494",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131943792",
+				"stop_id": "1970329131943792",
+				"name": "Vallée Jeunesse",
+				"stop_name": "Vallée Jeunesse",
+				"x": "6.607686",
+				"y": "46.523299",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942304",
+				"stop_id": "1970329131942304",
+				"name": "Valmont",
+				"stop_name": "Valmont",
+				"x": "6.655128",
+				"y": "46.535148",
+				"line": [
+					{
+						"line_short_name": "41",
+						"lineShortName": "41"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942363",
+				"stop_id": "1970329131942363",
+				"name": "Vennes",
+				"stop_name": "Vennes",
+				"x": "6.656653",
+				"y": "46.541348",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "m2",
+						"lineShortName": "m2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942310",
+				"stop_id": "1970329131942310",
+				"name": "Verdeil",
+				"stop_name": "Verdeil",
+				"x": "6.649674",
+				"y": "46.518229",
+				"line": [
+					{
+						"line_short_name": "13",
+						"lineShortName": "13"
+					}
+				]
+			},
+			{
+				"id": "1970329131943935",
+				"stop_id": "1970329131943935",
+				"name": "Vernand-Camarès",
+				"stop_name": "Vernand-Camarès",
+				"x": "6.605019",
+				"y": "46.570898",
+				"line": [
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131942309",
+				"stop_id": "1970329131942309",
+				"name": "Vers-chez-Blanc",
+				"stop_name": "Vers-chez-Blanc",
+				"x": "6.694817",
+				"y": "46.554608",
+				"line": [
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942308",
+				"stop_id": "1970329131942308",
+				"name": "Vert-Bois",
+				"stop_name": "Vert-Bois",
+				"x": "6.687270",
+				"y": "46.562771",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942329",
+				"stop_id": "1970329131942329",
+				"name": "Victor-Ruffy",
+				"stop_name": "Victor-Ruffy",
+				"x": "6.648429",
+				"y": "46.531651",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942325",
+				"stop_id": "1970329131942325",
+				"name": "Vieux-Moulin",
+				"stop_name": "Vieux-Moulin",
+				"x": "6.629664",
+				"y": "46.532907",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "22",
+						"lineShortName": "22"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131942317",
+				"stop_id": "1970329131942317",
+				"name": "Vigie",
+				"stop_name": "Vigie",
+				"x": "6.623644",
+				"y": "46.521596",
+				"line": [
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942323",
+				"stop_id": "1970329131942323",
+				"name": "Villard",
+				"stop_name": "Villard",
+				"x": "6.624606",
+				"y": "46.519180",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "3",
+						"lineShortName": "3"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942319",
+				"stop_id": "1970329131942319",
+				"name": "Vinet",
+				"stop_name": "Vinet",
+				"x": "6.628623",
+				"y": "46.526406",
+				"line": [
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					}
+				]
+			},
+			{
+				"id": "1970329131942328",
+				"stop_id": "1970329131942328",
+				"name": "Virgile-Rossel",
+				"stop_name": "Virgile-Rossel",
+				"x": "6.648457",
+				"y": "46.526150",
+				"line": [
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942321",
+				"stop_id": "1970329131942321",
+				"name": "Vivarium",
+				"stop_name": "Vivarium",
+				"x": "6.641023",
+				"y": "46.540159",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942334",
+				"stop_id": "1970329131942334",
+				"name": "Vulliemin",
+				"stop_name": "Vulliemin",
+				"x": "6.633895",
+				"y": "46.527708",
+				"line": [
+					{
+						"line_short_name": "16",
+						"lineShortName": "16"
+					}
+				]
+			},
+			{
+				"id": "1970329131942332",
+				"stop_id": "1970329131942332",
+				"name": "Vulliette",
+				"stop_name": "Vulliette",
+				"x": "6.681553",
+				"y": "46.557988",
+				"line": [
+					{
+						"line_short_name": "45",
+						"lineShortName": "45"
+					},
+					{
+						"line_short_name": "64",
+						"lineShortName": "64"
+					}
+				]
+			},
+			{
+				"id": "1970329131942004",
+				"stop_id": "1970329131942004",
+				"name": "Coppoz",
+				"stop_name": "Coppoz",
+				"x": "6.635711",
+				"y": "46.559877",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942003",
+				"stop_id": "1970329131942003",
+				"name": "Coppoz-Poste",
+				"stop_name": "Coppoz-Poste",
+				"x": "6.635511",
+				"y": "46.557109",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942008",
+				"stop_id": "1970329131942008",
+				"name": "Côtes",
+				"stop_name": "Côtes",
+				"x": "6.631614",
+				"y": "46.549970",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942087",
+				"stop_id": "1970329131942087",
+				"name": "Grand-Mont",
+				"stop_name": "Grand-Mont",
+				"x": "6.633558",
+				"y": "46.563149",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942073",
+				"stop_id": "1970329131942073",
+				"name": "Le Mont Fougères",
+				"stop_name": "Le Mont Fougères",
+				"x": "6.633941",
+				"y": "46.571010",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131941952",
+				"stop_id": "1970329131941952",
+				"name": "Le Mont, Budron",
+				"stop_name": "Le Mont, Budron",
+				"x": "6.633464",
+				"y": "46.575465",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131942061",
+				"stop_id": "1970329131942061",
+				"name": "Le Mont, Etavez",
+				"stop_name": "Le Mont, Etavez",
+				"x": "6.634123",
+				"y": "46.566253",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					}
+				]
+			},
+			{
+				"id": "1970329131942842",
+				"stop_id": "1970329131942842",
+				"name": "Maillefer",
+				"stop_name": "Maillefer",
+				"x": "6.628273",
+				"y": "46.541908",
+				"line": [
+					{
+						"line_short_name": "23",
+						"lineShortName": "23"
+					}
+				]
+			},
+			{
+				"id": "1970329131942132",
+				"stop_id": "1970329131942132",
+				"name": "Martines",
+				"stop_name": "Martines",
+				"x": "6.631888",
+				"y": "46.546450",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942207",
+				"stop_id": "1970329131942207",
+				"name": "Petit-Mont",
+				"stop_name": "Petit-Mont",
+				"x": "6.634724",
+				"y": "46.554351",
+				"line": [
+					{
+						"line_short_name": "60",
+						"lineShortName": "60"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942336",
+				"stop_id": "1970329131942336",
+				"name": "Avenue William",
+				"stop_name": "Avenue William",
+				"x": "6.681843",
+				"y": "46.509371",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131941925",
+				"stop_id": "1970329131941925",
+				"name": "Blessoney",
+				"stop_name": "Blessoney",
+				"x": "6.684148",
+				"y": "46.519259",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131941944",
+				"stop_id": "1970329131941944",
+				"name": "Brélaz",
+				"stop_name": "Brélaz",
+				"x": "6.697511",
+				"y": "46.513149",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131941949",
+				"stop_id": "1970329131941949",
+				"name": "Brûlées",
+				"stop_name": "Brûlées",
+				"x": "6.690476",
+				"y": "46.514475",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131941988",
+				"stop_id": "1970329131941988",
+				"name": "Ciblerie",
+				"stop_name": "Ciblerie",
+				"x": "6.688582",
+				"y": "46.504958",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131941999",
+				"stop_id": "1970329131941999",
+				"name": "Colline",
+				"stop_name": "Colline",
+				"x": "6.679034",
+				"y": "46.510841",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1972901817352202",
+				"stop_id": "1972901817352202",
+				"name": "Conversion, Gare",
+				"stop_name": "Conversion, Gare",
+				"x": "6.678198",
+				"y": "46.512877",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131941960",
+				"stop_id": "1970329131941960",
+				"name": "Corsy-Dessous",
+				"stop_name": "Corsy-Dessous",
+				"x": "6.680136",
+				"y": "46.513583",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131941961",
+				"stop_id": "1970329131941961",
+				"name": "Corsy-Dessus",
+				"stop_name": "Corsy-Dessus",
+				"x": "6.686300",
+				"y": "46.514902",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131942020",
+				"stop_id": "1970329131942020",
+				"name": "Croix-sur-Lutry",
+				"stop_name": "Croix-sur-Lutry",
+				"x": "6.702924",
+				"y": "46.517241",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					},
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					},
+					{
+						"line_short_name": "N6",
+						"lineShortName": "N6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942015",
+				"stop_id": "1970329131942015",
+				"name": "Crêt-des-Pierres",
+				"stop_name": "Crêt-des-Pierres",
+				"x": "6.688603",
+				"y": "46.517993",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131942088",
+				"stop_id": "1970329131942088",
+				"name": "Grand-Pont",
+				"stop_name": "Grand-Pont",
+				"x": "6.680372",
+				"y": "46.504197",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942097",
+				"stop_id": "1970329131942097",
+				"name": "Gravesse",
+				"stop_name": "Gravesse",
+				"x": "6.694927",
+				"y": "46.509687",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131941969",
+				"stop_id": "1970329131941969",
+				"name": "Les Champs",
+				"stop_name": "Les Champs",
+				"x": "6.686867",
+				"y": "46.504632",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1972901817352210",
+				"stop_id": "1972901817352210",
+				"name": "Lutry Taillepied",
+				"stop_name": "Lutry Taillepied",
+				"x": "6.684409",
+				"y": "46.504755",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1972901817352205",
+				"stop_id": "1972901817352205",
+				"name": "Lutry, Corniche",
+				"stop_name": "Lutry, Corniche",
+				"x": "6.694144",
+				"y": "46.500798",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942043",
+				"stop_id": "1970329131942043",
+				"name": "Lutry, Echerins",
+				"stop_name": "Lutry, Echerins",
+				"x": "6.700493",
+				"y": "46.518566",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					},
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131942105",
+				"stop_id": "1970329131942105",
+				"name": "Lutry, Jordillon",
+				"stop_name": "Lutry, Jordillon",
+				"x": "6.708212",
+				"y": "46.509067",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131942112",
+				"stop_id": "1970329131942112",
+				"name": "Lutry, Landar",
+				"stop_name": "Lutry, Landar",
+				"x": "6.691793",
+				"y": "46.517692",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					},
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1972901817352204",
+				"stop_id": "1972901817352204",
+				"name": "Lutry, Port",
+				"stop_name": "Lutry, Port",
+				"x": "6.683981",
+				"y": "46.501819",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					},
+					{
+						"line_short_name": "N6",
+						"lineShortName": "N6"
+					}
+				]
+			},
+			{
+				"id": "1970329131942264",
+				"stop_id": "1970329131942264",
+				"name": "Lutry, Sapelle",
+				"stop_name": "Lutry, Sapelle",
+				"x": "6.704199",
+				"y": "46.511996",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131942129",
+				"stop_id": "1970329131942129",
+				"name": "Marionnettes",
+				"stop_name": "Marionnettes",
+				"x": "6.685705",
+				"y": "46.512748",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131942177",
+				"stop_id": "1970329131942177",
+				"name": "Orzens",
+				"stop_name": "Orzens",
+				"x": "6.683353",
+				"y": "46.507145",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131942209",
+				"stop_id": "1970329131942209",
+				"name": "Ponfilet",
+				"stop_name": "Ponfilet",
+				"x": "6.689510",
+				"y": "46.513196",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131942249",
+				"stop_id": "1970329131942249",
+				"name": "Rive",
+				"stop_name": "Rive",
+				"x": "6.690191",
+				"y": "46.501177",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942267",
+				"stop_id": "1970329131942267",
+				"name": "Savoie",
+				"stop_name": "Savoie",
+				"x": "6.701230",
+				"y": "46.516160",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131942268",
+				"stop_id": "1970329131942268",
+				"name": "Savuit-Place",
+				"stop_name": "Savuit-Place",
+				"x": "6.693911",
+				"y": "46.507287",
+				"line": [
+					{
+						"line_short_name": "68",
+						"lineShortName": "68"
+					},
+					{
+						"line_short_name": "69",
+						"lineShortName": "69"
+					}
+				]
+			},
+			{
+				"id": "1970329131942326",
+				"stop_id": "1970329131942326",
+				"name": "Voisinand",
+				"stop_name": "Voisinand",
+				"x": "6.686378",
+				"y": "46.503697",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1972901817352224",
+				"stop_id": "1972901817352224",
+				"name": "Mex, En Verney",
+				"stop_name": "Mex, En Verney",
+				"x": "6.553425",
+				"y": "46.570542",
+				"line": []
+			},
+			{
+				"id": "1972901817352214",
+				"stop_id": "1972901817352214",
+				"name": "Mex, Faraz",
+				"stop_name": "Mex, Faraz",
+				"x": "6.550666",
+				"y": "46.566193",
+				"line": []
+			},
+			{
+				"id": "1970329131943932",
+				"stop_id": "1970329131943932",
+				"name": "Sugnens",
+				"stop_name": "Sugnens",
+				"x": "6.668451",
+				"y": "46.655167",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941904",
+				"stop_id": "1970329131941904",
+				"name": "Balances",
+				"stop_name": "Balances",
+				"x": "6.736031",
+				"y": "46.575655",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942161",
+				"stop_id": "1970329131942161",
+				"name": "Montpreveyres",
+				"stop_name": "Montpreveyres",
+				"x": "6.742172",
+				"y": "46.582508",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942246",
+				"stop_id": "1970329131942246",
+				"name": "Riau-Graubon",
+				"stop_name": "Riau-Graubon",
+				"x": "6.724558",
+				"y": "46.575147",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942159",
+				"stop_id": "1970329131942159",
+				"name": "Moudon, Gare",
+				"stop_name": "Moudon, Gare",
+				"x": "6.801927",
+				"y": "46.667685",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "N2",
+						"lineShortName": "N2"
+					}
+				]
+			},
+			{
+				"id": "1970329131942276",
+				"stop_id": "1970329131942276",
+				"name": "Moudon, Sorbiers",
+				"stop_name": "Moudon, Sorbiers",
+				"x": "6.795328",
+				"y": "46.662218",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942315",
+				"stop_id": "1970329131942315",
+				"name": "Moudon, Verger",
+				"stop_name": "Moudon, Verger",
+				"x": "6.798804",
+				"y": "46.666579",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131943916",
+				"stop_id": "1970329131943916",
+				"name": "Mézières Station",
+				"stop_name": "Mézières Station",
+				"x": "6.771619",
+				"y": "46.599412",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131943917",
+				"stop_id": "1970329131943917",
+				"name": "Mézières Village",
+				"stop_name": "Mézières Village",
+				"x": "6.770340",
+				"y": "46.596238",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					},
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942131",
+				"stop_id": "1970329131942131",
+				"name": "Marronnier",
+				"stop_name": "Marronnier",
+				"x": "6.675360",
+				"y": "46.505756",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942186",
+				"stop_id": "1970329131942186",
+				"name": "Paudex",
+				"stop_name": "Paudex",
+				"x": "6.672976",
+				"y": "46.506653",
+				"line": []
+			},
+			{
+				"id": "1972901817352206",
+				"stop_id": "1972901817352206",
+				"name": "Paudex, Village",
+				"stop_name": "Paudex, Village",
+				"x": "6.672976",
+				"y": "46.506653",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942316",
+				"stop_id": "1970329131942316",
+				"name": "Verrière",
+				"stop_name": "Verrière",
+				"x": "6.670531",
+				"y": "46.505903",
+				"line": [
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131943922",
+				"stop_id": "1970329131943922",
+				"name": "Cery",
+				"stop_name": "Cery",
+				"x": "6.605103",
+				"y": "46.544592",
+				"line": [
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970500930634303",
+				"stop_id": "1970500930634303",
+				"name": "Cery-Fleur-de-Lys",
+				"stop_name": "Cery-Fleur-de-Lys",
+				"x": "6.605365",
+				"y": "46.544072",
+				"line": []
+			},
+			{
+				"id": "1972901817352211",
+				"stop_id": "1972901817352211",
+				"name": "Cery-Fleur-de-Lys",
+				"stop_name": "Cery-Fleur-de-Lys",
+				"x": "6.605407",
+				"y": "46.545188",
+				"line": []
+			},
+			{
+				"id": "1970329131941962",
+				"stop_id": "1970329131941962",
+				"name": "Coudraie",
+				"stop_name": "Coudraie",
+				"x": "6.609632",
+				"y": "46.540198",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942068",
+				"stop_id": "1970329131942068",
+				"name": "Flumeaux",
+				"stop_name": "Flumeaux",
+				"x": "6.601052",
+				"y": "46.530488",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942079",
+				"stop_id": "1970329131942079",
+				"name": "Galicien",
+				"stop_name": "Galicien",
+				"x": "6.603392",
+				"y": "46.528054",
+				"line": [
+					{
+						"line_short_name": "1",
+						"lineShortName": "1"
+					},
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					},
+					{
+						"line_short_name": "2",
+						"lineShortName": "2"
+					},
+					{
+						"line_short_name": "21",
+						"lineShortName": "21"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "6",
+						"lineShortName": "6"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942098",
+				"stop_id": "1970329131942098",
+				"name": "Grand Vigne",
+				"stop_name": "Grand Vigne",
+				"x": "6.603797",
+				"y": "46.531673",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942103",
+				"stop_id": "1970329131942103",
+				"name": "Huttins",
+				"stop_name": "Huttins",
+				"x": "6.608577",
+				"y": "46.533175",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942145",
+				"stop_id": "1970329131942145",
+				"name": "Malley-Nord",
+				"stop_name": "Malley-Nord",
+				"x": "6.602539",
+				"y": "46.524899",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131942143",
+				"stop_id": "1970329131942143",
+				"name": "Mont-Goulin",
+				"stop_name": "Mont-Goulin",
+				"x": "6.610867",
+				"y": "46.538580",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942195",
+				"stop_id": "1970329131942195",
+				"name": "Perréaz",
+				"stop_name": "Perréaz",
+				"x": "6.602405",
+				"y": "46.536971",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1972901817352207",
+				"stop_id": "1972901817352207",
+				"name": "Prilly, Centre",
+				"stop_name": "Prilly, Centre",
+				"x": "6.605559",
+				"y": "46.535035",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1972901817352208",
+				"stop_id": "1972901817352208",
+				"name": "Prilly, Eglise",
+				"stop_name": "Prilly, Eglise",
+				"x": "6.598801",
+				"y": "46.539036",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					},
+					{
+						"line_short_name": "81",
+						"lineShortName": "81"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131941971",
+				"stop_id": "1970329131941971",
+				"name": "Prilly-Chasseur",
+				"stop_name": "Prilly-Chasseur",
+				"x": "6.606865",
+				"y": "46.539123",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					},
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131943934",
+				"stop_id": "1970329131943934",
+				"name": "Union-Prilly",
+				"stop_name": "Union-Prilly",
+				"x": "6.611842",
+				"y": "46.532353",
+				"line": [
+					{
+						"line_short_name": "Bus-LEB",
+						"lineShortName": "Bus-LEB"
+					},
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1970329131941932",
+				"stop_id": "1970329131941932",
+				"name": "Bourdonnière",
+				"stop_name": "Bourdonnière",
+				"x": "6.647090",
+				"y": "46.506493",
+				"line": [
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131941942",
+				"stop_id": "1970329131941942",
+				"name": "Boverattes",
+				"stop_name": "Boverattes",
+				"x": "6.665737",
+				"y": "46.516293",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					}
+				]
+			},
+			{
+				"id": "1970329131942235",
+				"stop_id": "1970329131942235",
+				"name": "C.-F. Ramuz",
+				"stop_name": "C.-F. Ramuz",
+				"x": "6.648192",
+				"y": "46.509528",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131941980",
+				"stop_id": "1970329131941980",
+				"name": "Chenaulaz",
+				"stop_name": "Chenaulaz",
+				"x": "6.672824",
+				"y": "46.527046",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131941996",
+				"stop_id": "1970329131941996",
+				"name": "Châtaignier",
+				"stop_name": "Châtaignier",
+				"x": "6.653872",
+				"y": "46.506593",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942041",
+				"stop_id": "1970329131942041",
+				"name": "Daillettes",
+				"stop_name": "Daillettes",
+				"x": "6.666065",
+				"y": "46.523001",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					}
+				]
+			},
+			{
+				"id": "1970329131942107",
+				"stop_id": "1970329131942107",
+				"name": "Joliette",
+				"stop_name": "Joliette",
+				"x": "6.653261",
+				"y": "46.509923",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942115",
+				"stop_id": "1970329131942115",
+				"name": "Les Liaudes",
+				"stop_name": "Les Liaudes",
+				"x": "6.656521",
+				"y": "46.517876",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					}
+				]
+			},
+			{
+				"id": "1970329131942130",
+				"stop_id": "1970329131942130",
+				"name": "Margerol",
+				"stop_name": "Margerol",
+				"x": "6.660922",
+				"y": "46.519953",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					}
+				]
+			},
+			{
+				"id": "1970329131942168",
+				"stop_id": "1970329131942168",
+				"name": "Montillier",
+				"stop_name": "Montillier",
+				"x": "6.657773",
+				"y": "46.512365",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942170",
+				"stop_id": "1970329131942170",
+				"name": "Monts-de-Pully",
+				"stop_name": "Monts-de-Pully",
+				"x": "6.688627",
+				"y": "46.536013",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942149",
+				"stop_id": "1970329131942149",
+				"name": "Moulins",
+				"stop_name": "Moulins",
+				"x": "6.669810",
+				"y": "46.508476",
+				"line": [
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942138",
+				"stop_id": "1970329131942138",
+				"name": "Métairie",
+				"stop_name": "Métairie",
+				"x": "6.640810",
+				"y": "46.510007",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942178",
+				"stop_id": "1970329131942178",
+				"name": "Osches",
+				"stop_name": "Osches",
+				"x": "6.654208",
+				"y": "46.508877",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					}
+				]
+			},
+			{
+				"id": "1970329131942188",
+				"stop_id": "1970329131942188",
+				"name": "Pavillard",
+				"stop_name": "Pavillard",
+				"x": "6.658501",
+				"y": "46.519747",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					}
+				]
+			},
+			{
+				"id": "1970329131942193",
+				"stop_id": "1970329131942193",
+				"name": "Perraudettaz",
+				"stop_name": "Perraudettaz",
+				"x": "6.654309",
+				"y": "46.514024",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942212",
+				"stop_id": "1970329131942212",
+				"name": "Pierraz-Portay",
+				"stop_name": "Pierraz-Portay",
+				"x": "6.643452",
+				"y": "46.509324",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					}
+				]
+			},
+			{
+				"id": "1970329131942218",
+				"stop_id": "1970329131942218",
+				"name": "Pré Pariset",
+				"stop_name": "Pré Pariset",
+				"x": "6.667033",
+				"y": "46.519126",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					}
+				]
+			},
+			{
+				"id": "1970329131942215",
+				"stop_id": "1970329131942215",
+				"name": "Préau",
+				"stop_name": "Préau",
+				"x": "6.656633",
+				"y": "46.510149",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					}
+				]
+			},
+			{
+				"id": "1970329131942205",
+				"stop_id": "1970329131942205",
+				"name": "Pully, Centre",
+				"stop_name": "Pully, Centre",
+				"x": "6.660268",
+				"y": "46.510160",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					},
+					{
+						"line_short_name": "87",
+						"lineShortName": "87"
+					}
+				]
+			},
+			{
+				"id": "1970329131941991",
+				"stop_id": "1970329131941991",
+				"name": "Pully, Clergère",
+				"stop_name": "Pully, Clergère",
+				"x": "6.662055",
+				"y": "46.511365",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					},
+					{
+						"line_short_name": "49",
+						"lineShortName": "49"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942206",
+				"stop_id": "1970329131942206",
+				"name": "Pully, Gare",
+				"stop_name": "Pully, Gare",
+				"x": "6.658114",
+				"y": "46.510429",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "4",
+						"lineShortName": "4"
+					},
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					}
+				]
+			},
+			{
+				"id": "1970329131942211",
+				"stop_id": "1970329131942211",
+				"name": "Pully, Port",
+				"stop_name": "Pully, Port",
+				"x": "6.661172",
+				"y": "46.506282",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942239",
+				"stop_id": "1970329131942239",
+				"name": "Pully, Ravessoud",
+				"stop_name": "Pully, Ravessoud",
+				"x": "6.696907",
+				"y": "46.539180",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942335",
+				"stop_id": "1970329131942335",
+				"name": "Pully, Val-Vert",
+				"stop_name": "Pully, Val-Vert",
+				"x": "6.667045",
+				"y": "46.521932",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					},
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					}
+				]
+			},
+			{
+				"id": "1970329131943881",
+				"stop_id": "1970329131943881",
+				"name": "Pully-Clergère",
+				"stop_name": "Pully-Clergère",
+				"x": "6.661583",
+				"y": "46.511105",
+				"line": []
+			},
+			{
+				"id": "1970329131942245",
+				"stop_id": "1970329131942245",
+				"name": "Reymondin",
+				"stop_name": "Reymondin",
+				"x": "6.665635",
+				"y": "46.509333",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					},
+					{
+						"line_short_name": "9",
+						"lineShortName": "9"
+					}
+				]
+			},
+			{
+				"id": "1970329131942258",
+				"stop_id": "1970329131942258",
+				"name": "Rochettaz",
+				"stop_name": "Rochettaz",
+				"x": "6.663396",
+				"y": "46.514145",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					}
+				]
+			},
+			{
+				"id": "1970329131942251",
+				"stop_id": "1970329131942251",
+				"name": "Roses",
+				"stop_name": "Roses",
+				"x": "6.656412",
+				"y": "46.515023",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					}
+				]
+			},
+			{
+				"id": "1970329131942252",
+				"stop_id": "1970329131942252",
+				"name": "Rosiaz",
+				"stop_name": "Rosiaz",
+				"x": "6.662270",
+				"y": "46.521788",
+				"line": [
+					{
+						"line_short_name": "48",
+						"lineShortName": "48"
+					},
+					{
+						"line_short_name": "7",
+						"lineShortName": "7"
+					}
+				]
+			},
+			{
+				"id": "1970329131942275",
+				"stop_id": "1970329131942275",
+				"name": "Somais",
+				"stop_name": "Somais",
+				"x": "6.657555",
+				"y": "46.506714",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					},
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942291",
+				"stop_id": "1970329131942291",
+				"name": "Tour Haldimand",
+				"stop_name": "Tour Haldimand",
+				"x": "6.642581",
+				"y": "46.506570",
+				"line": [
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942306",
+				"stop_id": "1970329131942306",
+				"name": "Vallon",
+				"stop_name": "Vallon",
+				"x": "6.667089",
+				"y": "46.517899",
+				"line": [
+					{
+						"line_short_name": "47",
+						"lineShortName": "47"
+					}
+				]
+			},
+			{
+				"id": "1970329131942327",
+				"stop_id": "1970329131942327",
+				"name": "Verney",
+				"stop_name": "Verney",
+				"x": "6.649520",
+				"y": "46.506447",
+				"line": [
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942318",
+				"stop_id": "1970329131942318",
+				"name": "Vignes",
+				"stop_name": "Vignes",
+				"x": "6.665333",
+				"y": "46.507204",
+				"line": [
+					{
+						"line_short_name": "8",
+						"lineShortName": "8"
+					}
+				]
+			},
+			{
+				"id": "1970329131942837",
+				"stop_id": "1970329131942837",
+				"name": "1er Août",
+				"stop_name": "1er Août",
+				"x": "6.582018",
+				"y": "46.536737",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					}
+				]
+			},
+			{
+				"id": "1970329131941890",
+				"stop_id": "1970329131941890",
+				"name": "1er Mai",
+				"stop_name": "1er Mai",
+				"x": "6.583449",
+				"y": "46.540761",
+				"line": [
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					}
+				]
+			},
+			{
+				"id": "1970329131941901",
+				"stop_id": "1970329131941901",
+				"name": "Avenir",
+				"stop_name": "Avenir",
+				"x": "6.583467",
+				"y": "46.538332",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					}
+				]
+			},
+			{
+				"id": "1970329131941909",
+				"stop_id": "1970329131941909",
+				"name": "Baumettes",
+				"stop_name": "Baumettes",
+				"x": "6.590629",
+				"y": "46.543459",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131942084",
+				"stop_id": "1970329131942084",
+				"name": "Bois-Genoud",
+				"stop_name": "Bois-Genoud",
+				"x": "6.584156",
+				"y": "46.546294",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131941938",
+				"stop_id": "1970329131941938",
+				"name": "Borjod",
+				"stop_name": "Borjod",
+				"x": "6.588663",
+				"y": "46.539567",
+				"line": [
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					}
+				]
+			},
+			{
+				"id": "1970329131941910",
+				"stop_id": "1970329131941910",
+				"name": "Bourg-Dessus",
+				"stop_name": "Bourg-Dessus",
+				"x": "6.594921",
+				"y": "46.538197",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					},
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					}
+				]
+			},
+			{
+				"id": "1970329131941948",
+				"stop_id": "1970329131941948",
+				"name": "Broye",
+				"stop_name": "Broye",
+				"x": "6.598092",
+				"y": "46.535531",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131941921",
+				"stop_id": "1970329131941921",
+				"name": "Bugnon",
+				"stop_name": "Bugnon",
+				"x": "6.596137",
+				"y": "46.539749",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131941966",
+				"stop_id": "1970329131941966",
+				"name": "Censuy",
+				"stop_name": "Censuy",
+				"x": "6.584019",
+				"y": "46.532309",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131941974",
+				"stop_id": "1970329131941974",
+				"name": "Chêne",
+				"stop_name": "Chêne",
+				"x": "6.590073",
+				"y": "46.529048",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942067",
+				"stop_id": "1970329131942067",
+				"name": "Florissant",
+				"stop_name": "Florissant",
+				"x": "6.598522",
+				"y": "46.532642",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131942065",
+				"stop_id": "1970329131942065",
+				"name": "Follieu",
+				"stop_name": "Follieu",
+				"x": "6.592931",
+				"y": "46.539640",
+				"line": [
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					}
+				]
+			},
+			{
+				"id": "1970329131942232",
+				"stop_id": "1970329131942232",
+				"name": "Hôtel-de-Ville",
+				"stop_name": "Hôtel-de-Ville",
+				"x": "6.585877",
+				"y": "46.536420",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131942119",
+				"stop_id": "1970329131942119",
+				"name": "Longemalle",
+				"stop_name": "Longemalle",
+				"x": "6.596579",
+				"y": "46.525579",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942146",
+				"stop_id": "1970329131942146",
+				"name": "Malley-Ouest",
+				"stop_name": "Malley-Ouest",
+				"x": "6.601235",
+				"y": "46.524134",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942198",
+				"stop_id": "1970329131942198",
+				"name": "Perrelet",
+				"stop_name": "Perrelet",
+				"x": "6.599001",
+				"y": "46.530130",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131943876",
+				"stop_id": "1970329131943876",
+				"name": "Renens, Piscine",
+				"stop_name": "Renens, Piscine",
+				"x": "6.585209",
+				"y": "46.530419",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					}
+				]
+			},
+			{
+				"id": "1970329131942230",
+				"stop_id": "1970329131942230",
+				"name": "Renens-14 Avril",
+				"stop_name": "Renens-14 Avril",
+				"x": "6.580056",
+				"y": "46.539588",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131942231",
+				"stop_id": "1970329131942231",
+				"name": "Renens-Gare",
+				"stop_name": "Renens-Gare",
+				"x": "6.578491",
+				"y": "46.537296",
+				"line": [
+					{
+						"line_short_name": "m1",
+						"lineShortName": "m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942240",
+				"stop_id": "1970329131942240",
+				"name": "Renens-Gare nord",
+				"stop_name": "Renens-Gare nord",
+				"x": "6.579569",
+				"y": "46.537920",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "36",
+						"lineShortName": "36"
+					},
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					},
+					{
+						"line_short_name": "54",
+						"lineShortName": "54"
+					}
+				]
+			},
+			{
+				"id": "1970329131942241",
+				"stop_id": "1970329131942241",
+				"name": "Renens-Gare sud",
+				"stop_name": "Renens-Gare sud",
+				"x": "6.578864",
+				"y": "46.536804",
+				"line": [
+					{
+						"line_short_name": "25",
+						"lineShortName": "25"
+					},
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					},
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					},
+					{
+						"line_short_name": "Bus-m1",
+						"lineShortName": "Bus-m1"
+					}
+				]
+			},
+			{
+				"id": "1970329131942234",
+				"stop_id": "1970329131942234",
+				"name": "Renens-Village",
+				"stop_name": "Renens-Village",
+				"x": "6.592200",
+				"y": "46.532631",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					},
+					{
+						"line_short_name": "84",
+						"lineShortName": "84"
+					}
+				]
+			},
+			{
+				"id": "1970329131942111",
+				"stop_id": "1970329131942111",
+				"name": "Rue du Lac",
+				"stop_name": "Rue du Lac",
+				"x": "6.592236",
+				"y": "46.527400",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					},
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131942265",
+				"stop_id": "1970329131942265",
+				"name": "Saugiaz",
+				"stop_name": "Saugiaz",
+				"x": "6.586516",
+				"y": "46.540100",
+				"line": [
+					{
+						"line_short_name": "38",
+						"lineShortName": "38"
+					}
+				]
+			},
+			{
+				"id": "1970329131943761",
+				"stop_id": "1970329131943761",
+				"name": "Sous l'Eglise",
+				"stop_name": "Sous l'Eglise",
+				"x": "6.588511",
+				"y": "46.535118",
+				"line": [
+					{
+						"line_short_name": "17",
+						"lineShortName": "17"
+					}
+				]
+			},
+			{
+				"id": "1970329131942287",
+				"stop_id": "1970329131942287",
+				"name": "Sur-la-Croix",
+				"stop_name": "Sur-la-Croix",
+				"x": "6.593568",
+				"y": "46.541025",
+				"line": [
+					{
+						"line_short_name": "18",
+						"lineShortName": "18"
+					}
+				]
+			},
+			{
+				"id": "1970329131943953",
+				"stop_id": "1970329131943953",
+				"name": "Riex, Mouniaz",
+				"stop_name": "Riex, Mouniaz",
+				"x": "6.734334",
+				"y": "46.493723",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131943931",
+				"stop_id": "1970329131943931",
+				"name": "Romanel",
+				"stop_name": "Romanel",
+				"x": "6.602347",
+				"y": "46.557149",
+				"line": [
+					{
+						"line_short_name": "LEB",
+						"lineShortName": "LEB"
+					}
+				]
+			},
+			{
+				"id": "1972901817352215",
+				"stop_id": "1972901817352215",
+				"name": "Romanel-sur-Lausanne",
+				"stop_name": "Romanel-sur-Lausanne",
+				"x": "6.603820",
+				"y": "46.562669",
+				"line": []
+			},
+			{
+				"id": "1970329131942006",
+				"stop_id": "1970329131942006",
+				"name": "Corcelles-Jorat",
+				"stop_name": "Corcelles-Jorat",
+				"x": "6.745066",
+				"y": "46.590851",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942100",
+				"stop_id": "1970329131942100",
+				"name": "Home du Jorat",
+				"stop_name": "Home du Jorat",
+				"x": "6.750830",
+				"y": "46.595685",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131943843",
+				"stop_id": "1970329131943843",
+				"name": "Ropraz, Ussières",
+				"stop_name": "Ropraz, Ussières",
+				"x": "6.755158",
+				"y": "46.601235",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131941897",
+				"stop_id": "1970329131941897",
+				"name": "Ancienne Poste",
+				"stop_name": "Ancienne Poste",
+				"x": "6.724737",
+				"y": "46.539907",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131941990",
+				"stop_id": "1970329131941990",
+				"name": "Claie-aux-Moines",
+				"stop_name": "Claie-aux-Moines",
+				"x": "6.703861",
+				"y": "46.540687",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131941992",
+				"stop_id": "1970329131941992",
+				"name": "Clair-Matin",
+				"stop_name": "Clair-Matin",
+				"x": "6.746956",
+				"y": "46.550241",
+				"line": []
+			},
+			{
+				"id": "1970329131942016",
+				"stop_id": "1970329131942016",
+				"name": "Crêt-Rouge",
+				"stop_name": "Crêt-Rouge",
+				"x": "6.738791",
+				"y": "46.543413",
+				"line": []
+			},
+			{
+				"id": "1970329131942094",
+				"stop_id": "1970329131942094",
+				"name": "Grange-la-Ville",
+				"stop_name": "Grange-la-Ville",
+				"x": "6.748168",
+				"y": "46.552331",
+				"line": []
+			},
+			{
+				"id": "1970329131942152",
+				"stop_id": "1970329131942152",
+				"name": "Mollie-Margot",
+				"stop_name": "Mollie-Margot",
+				"x": "6.750566",
+				"y": "46.556551",
+				"line": []
+			},
+			{
+				"id": "1970329131942183",
+				"stop_id": "1970329131942183",
+				"name": "Palaz",
+				"stop_name": "Palaz",
+				"x": "6.735132",
+				"y": "46.541533",
+				"line": []
+			},
+			{
+				"id": "1970329131942269",
+				"stop_id": "1970329131942269",
+				"name": "Savigny, Centre",
+				"stop_name": "Savigny, Centre",
+				"x": "6.730941",
+				"y": "46.538551",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942228",
+				"stop_id": "1970329131942228",
+				"name": "Savigny, Publoz",
+				"stop_name": "Savigny, Publoz",
+				"x": "6.715696",
+				"y": "46.541842",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131941896",
+				"stop_id": "1970329131941896",
+				"name": "St-Amour",
+				"stop_name": "St-Amour",
+				"x": "6.745845",
+				"y": "46.547950",
+				"line": []
+			},
+			{
+				"id": "1970329131942290",
+				"stop_id": "1970329131942290",
+				"name": "Talliaz",
+				"stop_name": "Talliaz",
+				"x": "6.754626",
+				"y": "46.555222",
+				"line": []
+			},
+			{
+				"id": "1970329131943753",
+				"stop_id": "1970329131943753",
+				"name": "Clos l'Auberge",
+				"stop_name": "Clos l'Auberge",
+				"x": "6.782371",
+				"y": "46.568474",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131942093",
+				"stop_id": "1970329131942093",
+				"name": "Grange Rouge",
+				"stop_name": "Grange Rouge",
+				"x": "6.778623",
+				"y": "46.571595",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131943840",
+				"stop_id": "1970329131943840",
+				"name": "Servion Poste",
+				"stop_name": "Servion Poste",
+				"x": "6.781423",
+				"y": "46.572954",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1972901817352209",
+				"stop_id": "1972901817352209",
+				"name": "Zoo-Tropiquarium",
+				"stop_name": "Zoo-Tropiquarium",
+				"x": "6.772037",
+				"y": "46.566098",
+				"line": [
+					{
+						"line_short_name": "65",
+						"lineShortName": "65"
+					}
+				]
+			},
+			{
+				"id": "1970329131941934",
+				"stop_id": "1970329131941934",
+				"name": "Bochet",
+				"stop_name": "Bochet",
+				"x": "6.559476",
+				"y": "46.513324",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131941984",
+				"stop_id": "1970329131941984",
+				"name": "Chantres",
+				"stop_name": "Chantres",
+				"x": "6.553476",
+				"y": "46.510497",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131942122",
+				"stop_id": "1970329131942122",
+				"name": "Laviau",
+				"stop_name": "Laviau",
+				"x": "6.549993",
+				"y": "46.511514",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131942184",
+				"stop_id": "1970329131942184",
+				"name": "Pâqueret",
+				"stop_name": "Pâqueret",
+				"x": "6.570658",
+				"y": "46.516500",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131942259",
+				"stop_id": "1970329131942259",
+				"name": "Russel",
+				"stop_name": "Russel",
+				"x": "6.564482",
+				"y": "46.515211",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131942282",
+				"stop_id": "1970329131942282",
+				"name": "St-Sulpice",
+				"stop_name": "St-Sulpice",
+				"x": "6.558031",
+				"y": "46.510051",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131943646",
+				"stop_id": "1970329131943646",
+				"name": "Venoge nord",
+				"stop_name": "Venoge nord",
+				"x": "6.545712",
+				"y": "46.513954",
+				"line": [
+					{
+						"line_short_name": "33",
+						"lineShortName": "33"
+					}
+				]
+			},
+			{
+				"id": "1970329131943647",
+				"stop_id": "1970329131943647",
+				"name": "Venoge sud",
+				"stop_name": "Venoge sud",
+				"x": "6.546415",
+				"y": "46.512817",
+				"line": [
+					{
+						"line_short_name": "31",
+						"lineShortName": "31"
+					}
+				]
+			},
+			{
+				"id": "1970329131942288",
+				"stop_id": "1970329131942288",
+				"name": "Syens C. Château",
+				"stop_name": "Syens C. Château",
+				"x": "6.778731",
+				"y": "46.643767",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942289",
+				"stop_id": "1970329131942289",
+				"name": "Syens C.du Chêne",
+				"stop_name": "Syens C.du Chêne",
+				"x": "6.783696",
+				"y": "46.643661",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1972901817352212",
+				"stop_id": "1972901817352212",
+				"name": "Colice",
+				"stop_name": "Colice",
+				"x": "6.566361",
+				"y": "46.562716",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1972901817352213",
+				"stop_id": "1972901817352213",
+				"name": "En Coulaye",
+				"stop_name": "En Coulaye",
+				"x": "6.559188",
+				"y": "46.565909",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1970329131942263",
+				"stop_id": "1970329131942263",
+				"name": "Sansy",
+				"stop_name": "Sansy",
+				"x": "6.565367",
+				"y": "46.568138",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1970329131942330",
+				"stop_id": "1970329131942330",
+				"name": "Villars-St-Croix",
+				"stop_name": "Villars-St-Croix",
+				"x": "6.562224",
+				"y": "46.568143",
+				"line": [
+					{
+						"line_short_name": "32",
+						"lineShortName": "32"
+					}
+				]
+			},
+			{
+				"id": "1970329131942072",
+				"stop_id": "1970329131942072",
+				"name": "Pra Forni",
+				"stop_name": "Pra Forni",
+				"x": "6.711160",
+				"y": "46.505483",
+				"line": [
+					{
+						"line_short_name": "67",
+						"lineShortName": "67"
+					}
+				]
+			},
+			{
+				"id": "1970329131942236",
+				"stop_id": "1970329131942236",
+				"name": "La Râpe VD",
+				"stop_name": "La Râpe VD",
+				"x": "6.768077",
+				"y": "46.626114",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942331",
+				"stop_id": "1970329131942331",
+				"name": "Vucherens",
+				"stop_name": "Vucherens",
+				"x": "6.782449",
+				"y": "46.624853",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131943829",
+				"stop_id": "1970329131943829",
+				"name": "Vucherens, Closy",
+				"stop_name": "Vucherens, Closy",
+				"x": "6.783054",
+				"y": "46.628230",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			},
+			{
+				"id": "1970329131942333",
+				"stop_id": "1970329131942333",
+				"name": "Vulliens, Halte",
+				"stop_name": "Vulliens, Halte",
+				"x": "6.779736",
+				"y": "46.614937",
+				"line": [
+					{
+						"line_short_name": "62",
+						"lineShortName": "62"
+					}
+				]
+			}
+		]
+	}
+}
