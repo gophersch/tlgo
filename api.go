@@ -49,6 +49,7 @@ func (c *Client) execRequest(enpoint string, v interface{}) error {
 		return err
 	}
 	defer resp.Body.Close()
+
 	return json.NewDecoder(resp.Body).Decode(v)
 }
 

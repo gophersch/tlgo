@@ -5,6 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"strconv"
+	"strings"
 	"time"
 )
 
@@ -287,18 +288,26 @@ func (j *Journey) UnmarshalJSON(b []byte) error {
 	j.Lines = empty.Lines
 
 	// Waiting time
-	if len(empty.WaitingTime) != 8 {
+	if len(empty.WaitingTime) != 8 && len(empty.WaitingTime) != 9 {
 		return errors.New("Invalid waiting time format")
 	}
 
-	hours, hoursErr := strconv.ParseInt(empty.WaitingTime[0:2], 10, 8)
-	minutes, minutesErr := strconv.ParseInt(empty.WaitingTime[3:5], 10, 8)
-	seconds, secondsErr := strconv.ParseInt(empty.WaitingTime[6:8], 10, 8)
+	var startIndex int64 = 0
+	if strings.HasPrefix(empty.WaitingTime, "-") {
+		startIndex = 1
+	}
+
+	hours, hoursErr := strconv.ParseInt(empty.WaitingTime[startIndex:startIndex+2], 10, 8)
+	minutes, minutesErr := strconv.ParseInt(empty.WaitingTime[startIndex+3:startIndex+5], 10, 8)
+	seconds, secondsErr := strconv.ParseInt(empty.WaitingTime[startIndex+6:startIndex+8], 10, 8)
 	if hoursErr != nil || minutesErr != nil || secondsErr != nil {
 		return errors.New("Can not parse the waiting time")
 	}
 
 	j.WaitingTime = time.Duration(hours)*time.Hour + time.Duration(minutes)*time.Minute + time.Duration(seconds)*time.Second
+	if startIndex == 1 {
+		j.WaitingTime = time.Duration(-1.0 * j.WaitingTime.Nanoseconds())
+	}
 
 	return nil
 }

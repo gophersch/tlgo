@@ -41,7 +41,16 @@ func TestJSON(t *testing.T) {
 	journey := journeyRequest{}
 	validJSON(&journey, "samples/next_departure.json", t)
 
-	assert.Equal(t, len(journey.Journeys.Journey), 11)
+	assert.Equal(t, len(journey.Journeys.Journey), 12)
+
+	j := journey.Journeys.Journey[0]
+	expectedDuration := time.Duration(-11)*time.Minute - time.Duration(7)*time.Second
+	assert.Equal(t, j.WaitingTime, expectedDuration)
+
+	j2 := journey.Journeys.Journey[1]
+	expectedDuration = time.Duration(12)*time.Minute + time.Duration(27)*time.Second
+	assert.Equal(t, j2.WaitingTime, expectedDuration)
+
 }
 
 func TestURLMarshalling(t *testing.T) {
